@@ -1,0 +1,1223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arbitrium redivivum, or, The law of arbitration collected from the law-books both ancient and modern and deduced to these times, wherein the whole learning of awards or arbitrements is methodically treated : with several forms of submissions by way of covenants and bond : as also several forms of arbitrements or awards / by the author of Regula placitandi.</title>
+            <author>Author of Regula placitandi.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 54 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25747</idno>
+            <idno type="STC">Wing A3600</idno>
+            <idno type="STC">ESTC R27651</idno>
+            <idno type="EEBO-CITATION">10065861</idno>
+            <idno type="OCLC">ocm 10065861</idno>
+            <idno type="VID">44487</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44487)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1375:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Arbitrium redivivum, or, The law of arbitration collected from the law-books both ancient and modern and deduced to these times, wherein the whole learning of awards or arbitrements is methodically treated : with several forms of submissions by way of covenants and bond : as also several forms of arbitrements or awards / by the author of Regula placitandi.</title>
+                  <author>Author of Regula placitandi.</author>
+               </titleStmt>
+               <extent>[8], 93 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of Rich. and Edw. Atkins, Esquires for Isaac Cleeve,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Arbitration and award --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44487:1"/>
+            <pb facs="tcp:44487:1" rendition="simple:additions"/>
+            <p>
+               <hi>Arbitrium Redivivum:</hi> OR THE LAW OF <hi>Arbitration;</hi>
+            </p>
+            <p>COLLECTED From the Law-Books both Ancient and Modern, and deduced to theſe Times: Wherein the whole Learning of Awards or Arbitrements is methodically treated.</p>
+            <p>WITH Several Forms of Submiſſions by way of Cove<g ref="char:EOLhyphen"/>nants and Bond: As alſo ſeveral Forms of Arbitrements or Awards.</p>
+            <p>By the Author of <hi>Regula Placitandi.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>Rich.</hi> and <hi>Edw. Atkins</hi> Eſquires, For <hi>Iſaac Cleeve</hi> at the <hi>Star</hi> in <hi>Chan<g ref="char:EOLhyphen"/>cery-Lane</hi> near <hi>Serjeants-Inn,</hi> 1694.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:44487:2"/>
+            <pb facs="tcp:44487:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>ARbitrement</hi> is much eſteemed and great<g ref="char:EOLhyphen"/>ly favoured in our Com<g ref="char:EOLhyphen"/>mon Law; the end there<g ref="char:EOLhyphen"/>of being privately to com<g ref="char:EOLhyphen"/>poſe Differences between Parties by the Judgment of honeſt Men; and to prevent the great Trou<g ref="char:EOLhyphen"/>ble and frequent Expence of Law-Suits: This there<g ref="char:EOLhyphen"/>fore being rightly under<g ref="char:EOLhyphen"/>ſtood and practiſed, may undoubtedly ſave our Purſes, and procure much
+<pb facs="tcp:44487:3"/>Peace and Tranquility a<g ref="char:EOLhyphen"/>mongſt us: But on the other hand through Igno<g ref="char:EOLhyphen"/>rance and Defect of good Arbitrators we may run our ſelves into far greater dangers, than we thereby thought to avoid, and ſo make that our Ruine which is intended for our Happineſs. For though it be ſaid, That the Power of Arbitrators is ſuch, That they may judge ac<g ref="char:EOLhyphen"/>cording to their Will and Pleaſure, and therefore greater than that of any publick Judge; yet they muſt keep themſelves within their Juriſdiction,
+<pb facs="tcp:44487:3"/>and their Awards muſt be meaſured by the Rules of the Law. 'Tis true, they are not ſo tied up to Formalities as our Lawyers; notwithſtanding there are many things muſt be obſerved to make their Arbitrements good and effectual. All which are methodically laid down in this ſmall Trea<g ref="char:EOLhyphen"/>tiſe; and though much may be ſaid concerning Arbitrements in the Law-Books, yet it is moſtly mixt with other Matters, or elſe lies ſo privately un<g ref="char:EOLhyphen"/>der the Shadow of ſome other Title, that it hath
+<pb facs="tcp:44487:4"/>not been ſo much as heard of by thoſe who are moſt concerned to make uſe of it; and therefore anſwers not the End for which it was intended. A general Good ſhould be generally known and enjoyed. To this End therefore this Treatiſe is compiled, that the People in general may have Benefit there<g ref="char:EOLhyphen"/>by, which is the chief End of the Publiſher, who is a hearty Well-wiſher to Peace and the Publick Intereſt.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:44487:4"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>
+                  <label>CHAP. I.</label> 
+                  <hi>SHewing what Matters in Con<g ref="char:EOLhyphen"/>troverſie may be ſubmitted to Arbitrement, and what not.</hi> pag. 3</item>
+               <item>
+                  <label>CHAP. II.</label> 
+                  <hi>Concerning the Submiſſion, and the Circumſtances to be regarded there<g ref="char:EOLhyphen"/>in.</hi> 8</item>
+               <item>
+                  <label>CHAP. III.</label> 
+                  <hi>Concerning the Parties to the Submiſ<g ref="char:EOLhyphen"/>ſion, and who may ſubmit,</hi> &amp;c. 13</item>
+               <pb facs="tcp:44487:5"/>
+               <item>
+                  <label>CHAP. IV.</label> 
+                  <hi>Concerning the Arbitrators and Um<g ref="char:EOLhyphen"/>pire, and their Power, with ſeve<g ref="char:EOLhyphen"/>ral Preſidents of Submiſſion.</hi> 17</item>
+               <item>
+                  <label>CHAP. V.</label> 
+                  <hi>The Duty of the Parties after ſubmiſ<g ref="char:EOLhyphen"/>ſion, and concerning publiſhing the Award, Notice and Delivery.</hi> 39</item>
+               <item>
+                  <label>CHAP. VI.</label> 
+                  <hi>What things are chiefly to be re<g ref="char:EOLhyphen"/>garded in Arbitrements or Awards; and firſt, that it muſt be according to the Submiſſion.</hi> 40</item>
+               <item>
+                  <label>CHAP. VII.</label> 
+                  <hi>That an Award ought to be cer<g ref="char:EOLhyphen"/>tain.</hi> 51</item>
+               <item>
+                  <label>CHAP. VIII.</label> 
+                  <hi>That an Award muſt be equal, and ap<g ref="char:EOLhyphen"/>point either Party ſomething bene<g ref="char:EOLhyphen"/>ficial.</hi> 52</item>
+               <pb facs="tcp:44487:5"/>
+               <item>
+                  <label>CHAP. IX.</label> 
+                  <hi>That the Performance of an Award muſt be poſſible, lawful, and with<g ref="char:EOLhyphen"/>in the Parties Power, without the Aid of others.</hi> 57</item>
+               <item>
+                  <label>CHAP. X.</label> 
+                  <hi>That there muſt be a means by Law to attain unto the thing awarded.</hi> 61</item>
+               <item>
+                  <label>CHAP. XI.</label> 
+                  <hi>That an Award muſt be final.</hi> 64</item>
+               <item>
+                  <label>CHAP. XII.</label> 
+                  <hi>Concerning an Umpire.</hi> 66</item>
+               <item>
+                  <label>CHAP. XIII.</label> 
+                  <hi>Several Notes concerning Arbitrement in general.</hi> 68</item>
+               <item>CHAP. XIV. <hi>How Arbitrement or Award ſhall be expounded and intended.</hi> 73</item>
+               <pb facs="tcp:44487:6"/>
+               <item>
+                  <label>CHAP. XV.</label> 
+                  <hi>The Effect of every Arbitrement or Award.</hi> 74</item>
+               <item>
+                  <label>CHAP. XVI.</label> 
+                  <hi>Concerning the Performance of an Award. With ſeveral Preſidents of Awards, Umpirage and Re<g ref="char:EOLhyphen"/>leaſe.</hi> 77</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:44487:6"/>
+            <head>THE LAW OF Arbitrement.</head>
+            <p>ARbitrement in Latin <hi>Ar<g ref="char:EOLhyphen"/>bitrium,</hi> is an Award,
+<note place="margin">Arbitrement what.</note> Determination or Judg<g ref="char:EOLhyphen"/>ment made, or given between perſons in Controverſie,
+<note place="margin">8 E. 4.1, &amp; 10. a 9 E. 4.43. b. 16 E. 4.9. a. 19 E. 4.1. a. 21 E. 4.39. a. 19 H. 6.36, 37. a. b. Dyer 236. 10 Eliz. pl. 39.</note> by the Arbitrators or Umpire, being ſuch perſon or perſons as are there<g ref="char:EOLhyphen"/>unto elected, by the Parties con<g ref="char:EOLhyphen"/>troverting, for the ending and pacifying the ſaid Controverſie according to the Submiſſion or Compromiſe of the ſaid Parties, and agreeable to Reaſon and good Conſcience.</p>
+            <pb n="2" facs="tcp:44487:7"/>
+            <p>It is ſaid to be called an Arbitre<g ref="char:EOLhyphen"/>ment,
+<note place="margin">Why ſo called.</note> either becauſe the Judges elected therein, may determine the Controverſie not according to the Law, but according to their Opinion and Judgment as honeſt Men: Or elſe becauſe the Parties to the Controverſie, have ſubmit<g ref="char:EOLhyphen"/>themſelves to the Judgment of the Arbitrators, not by Compulſion or Coertion of the Law, but of their own accord. It is alſo cal<g ref="char:EOLhyphen"/>led an Award, of the French Word <hi>Agarder,</hi> which ſignifies to <hi>decide</hi> or <hi>judge,</hi> and ſometime in the Saxon or Old Engliſh, it was called a <hi>Love-Day,</hi> becauſe of the Quiet and Tranquility that ſhould follow the ending of the Contro<g ref="char:EOLhyphen"/>verſie.</p>
+            <p>There are five things incident to every Award or Arbitrement.
+<note place="margin">Incidents to Arbitrement. 4 Eliz. Dyer, 217. a.</note>
+            </p>
+            <p n="1">1. Matter of Controverſie.</p>
+            <p n="2">2. Submiſſion to the Arbitra<g ref="char:EOLhyphen"/>tors.</p>
+            <p n="3">3. The Parties to the Submiſ<g ref="char:EOLhyphen"/>ſion.</p>
+            <p n="4">
+               <pb n="3" facs="tcp:44487:7"/>4. The Arbitrators or Umpire.</p>
+            <p n="5">5. The manner of the Award or yielding up their Judgment.</p>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Firſt therefore we muſt ſee what Mat<g ref="char:EOLhyphen"/>ters in Controverſie may be ſub<g ref="char:EOLhyphen"/>to Arbitrement, and what not.</hi>
+               </head>
+               <p n="1">1. <note place="margin">Things incer<g ref="char:EOLhyphen"/>tain. 22 H. 6.39. 14 H. 4.24. 4 H. 6.17.</note> THings and Actions meerly perſonal and incertain are arbitrable, as Treſpaſs, <hi>&amp;c.</hi> though the Submiſſion be not by Deed.</p>
+               <p>Arbitrement ought to be of a Duty incertain, 6 <hi>H.</hi> 4.6. <hi>a.</hi> 2 <hi>H</hi> 5. <hi>Fitz.</hi> 23. 4. <hi>H.</hi> 6.17. <hi>b.</hi> 10 <hi>H.</hi> 7.4. <hi>a.</hi>
+               </p>
+               <p n="2">2. <note place="margin">Things cer<g ref="char:EOLhyphen"/>tain. 4 H. 6.17. 2 H. 5.2. 12 R. 2. Dyer. 33 H. 8. f. 51. pl. 14.</note> But things certain are not arbitrable (but when the Submiſ<g ref="char:EOLhyphen"/>ſion is by Specialty) if they be not joined with others incertain, as Debt with Treſpaſs.</p>
+               <p>Controverſie of Debt alone can<g ref="char:EOLhyphen"/>not be put into Arbitrement; but Contract of Debt with another thing may well be put in Arbitre<g ref="char:EOLhyphen"/>ment, 45 <hi>E.</hi> 3.16. <hi>a.</hi> 2 <hi>H.</hi> 5. <hi>Fitz. Arbit.</hi> 23. 8 <hi>H.</hi> 5.3. <hi>b.</hi> 4 <hi>H.</hi> 6.17. <hi>b.</hi> 10 <hi>H.</hi> 7.4. <hi>a.</hi>
+               </p>
+               <pb n="4" facs="tcp:44487:8"/>
+               <p>Debt upon Contract without Specialty by the Reſolution of ſome Books may be put in Arbi<g ref="char:EOLhyphen"/>trement, 45 <hi>E.</hi> 3.16. <hi>a.</hi> 6 <hi>H.</hi> 4.6. <hi>a.</hi> 4 <hi>H.</hi> 6.18. <hi>a.</hi>
+               </p>
+               <p n="3">3. <note place="margin">Chattels real or mixt. 9 H. 6.60. 14 H. 4.24. 3 H. 4.6.</note> Chattels real or mixt, as Char<g ref="char:EOLhyphen"/>ters of Lands, are not arbitrable by themſelves, if the Submiſſion be not by Specialty.</p>
+               <p>In Real Actions Arbitrement is no Plea.</p>
+               <p>In Mixt Actions Arbitrement is no Plea, if the Submiſſion be not by Deed, 19 <hi>H.</hi> 6.37.</p>
+               <p>In Perſonal Actions on perſonal Wrongs Arbitrement is a Plea, al<g ref="char:EOLhyphen"/>though the Submiſſion be not by Deed, 14 <hi>H.</hi> 4.24.</p>
+               <p>In a Controverſie concerning the Property of Real Chattels a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Arbitrement transfers the Proper<g ref="char:EOLhyphen"/>ty of them according to the A<g ref="char:EOLhyphen"/>ward, 21 <hi>H.</hi> 7.29. <hi>b.</hi>
+               </p>
+               <p>In Chattels perſonal Arbitre<g ref="char:EOLhyphen"/>ment transfers the Property.</p>
+               <p>In perſonal Duty grounded u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>on a Specialty, Plea of Arbitrement is not available, 3 <hi>H.</hi> 4.1. <hi>b.</hi> 8 <hi>H.</hi> 5.3.</p>
+               <p>And the Lord <hi>Cook</hi> in his Re<g ref="char:EOLhyphen"/>ports, <hi>Li.</hi> 4. <hi>f.</hi> 43. <hi>b.</hi> 44. <hi>a.</hi> ſay
+<pb n="5" facs="tcp:44487:8"/>That an Arbitrement is no Plea when an Action is founded upon a Deed, when it is in the Re<g ref="char:EOLhyphen"/>alty, except in ſuch Caſes where Damages alone are to be reco<g ref="char:EOLhyphen"/>vered.</p>
+               <p>Note,
+<note place="margin">
+                     <hi>Nota,</hi> See <hi>Cowels</hi> Interp. <hi>tit. eiſdem.</hi>
+                  </note> Action Real claimeth Ti<g ref="char:EOLhyphen"/>tle of Freehold in Land.</p>
+               <p>Perſonal claimeth Debt, Goods or Damages.</p>
+               <p>Mixt claimeth not only a real thing, but Damages for the Wrong.</p>
+               <p>Chattels Real are ſuch as belong not immediately to the perſon of a Man, but to ſome other thing by way of dependency, as a Box with Charters of Land, Apples on a Tree, or a Tree it ſelf growing on the ground, or iſſuing out of ſome moveable thing, as a Leaſe or Rent.</p>
+               <p>Chattels perſonal belong imme<g ref="char:EOLhyphen"/>diately to the perſon of a Man, as a Bow, Horſe, <hi>&amp;c.</hi>
+               </p>
+               <p n="4">4. <note place="margin">Annuity. 9 H. 6.60. 14 H. 4.18. 3 H. 4.6.</note> Alſo an Annuity is not arbi<g ref="char:EOLhyphen"/>trable if the Submiſſion be not by Specialty, that is, by Deed or Bond, wherein the Parties cove<g ref="char:EOLhyphen"/>nant
+<pb n="6" facs="tcp:44487:9"/>or are bound to ſtand to the Award.</p>
+               <p n="5">5. <note place="margin">Freehold.</note> Nor a Freehold, 11 <hi>H.</hi> 4.12.14. <hi>H.</hi> 4.18, 19. <hi>&amp;</hi> 24 <hi>&amp;</hi> 54 E. 3.16. 12 <hi>Aſſ. pl.</hi> 25.21 <hi>E.</hi> 3.15.</p>
+               <p>Yet ſome hold that a Freehold may be awarded by Deed where the Submiſſion is by Specialty. But 21 <hi>E.</hi> 3.26. ſaith, An Arbitre<g ref="char:EOLhyphen"/>ment that the one Party ſhall have the Land out of the poſſeſſion of the other, doth not give a Free<g ref="char:EOLhyphen"/>hold.</p>
+               <p n="6">6. <note place="margin">Debt on Re<g ref="char:EOLhyphen"/>cord. 4 H. 6.17. 3 H. 4.5. 6 H. 4.9.</note> Nor Debt upon Arrerages of Account before Auditors, becauſe ſuch Debt is due by Record.</p>
+               <p>In a Controverſie grounded up<g ref="char:EOLhyphen"/>on a Matter of Record, Arbitre<g ref="char:EOLhyphen"/>ment ſhall not be regarded, 6 <hi>H.</hi> 4.6. <hi>a.</hi> 8 <hi>H.</hi> 5.3. <hi>b.</hi> 4. <hi>H.</hi> 6.17. <hi>b.</hi>
+               </p>
+               <p n="7">7. <note place="margin">Things not <hi>in Rerum natura.</hi>
+                  </note> And it ſeems, that ſuch things as were not <hi>in Rerum Natura</hi> at the time of the Submiſſion,
+<note place="margin">Weſt. Symb. Par. 2. ſect. 33.</note> (though they happen to be before the A<g ref="char:EOLhyphen"/>ward made) are not arbitrable as if the Submiſſion be of Ewe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with Lamb, which after the Sub<g ref="char:EOLhyphen"/>miſſion and before the Award made, have Lambs: It ſeemeth the Arbitrators have no power to
+<pb n="7" facs="tcp:44487:9"/>make any Award touching the Lambs.</p>
+               <p n="8">8. <note place="margin">Matters Cri<g ref="char:EOLhyphen"/>minal.</note> Matters concerning Criminal Offences, as Treaſons, Felonies, <hi>&amp;c.</hi> touching the Crime,
+<note place="margin">Weſt. Symb. Pars 2. ſect. 33.</note> ſeem not to be arbitrable, for it is for the benefit of a Kingdom and Com<g ref="char:EOLhyphen"/>monwealth that ſuch Offenders be made known and puniſhed.</p>
+               <p n="9">9. <note place="margin">Cauſes Matri<g ref="char:EOLhyphen"/>monial. Weſt. <hi>ut ſupra.</hi>
+                  </note> Alſo Cauſes Matrimonial ſeem not arbitrable, leſt Men ſhould ſeparate thoſe whom God hath joyned together.</p>
+               <p>To conclude, generally,
+<note place="margin">General Rule.</note> No Chattels real or mixt, no Debts by Deed or Record, no Annuities, nor Freeholds are of themſelves arbitrable.</p>
+               <p>Yet in ſuch Caſes though the things themſelves be not arbitra<g ref="char:EOLhyphen"/>ble, yet if a Man will bind himſelf to ſtand to an Award, ſuch Bond is good: And for the Non-perfor<g ref="char:EOLhyphen"/>mance of the Award the Bond will be forfeited.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="8" facs="tcp:44487:10"/>
+               <head>CHAP. II. <hi>Concerning the Submiſſion, and the Circumſtances to be regarded there<g ref="char:EOLhyphen"/>in.</hi>
+               </head>
+               <p>THE Submiſſion or Compro<g ref="char:EOLhyphen"/>miſe is the Faculty or power of pronouncing Sentence (between Perſons at Controverſie) given to Arbitrators by the Parties mutual private Conſent without publick Authority.
+<note place="margin">Submiſſion what. 8 E. 4.2. Weſt. Symb. p. 2. ſect. 1.</note>
+               </p>
+               <p>And every Submiſſion is either General,
+<note place="margin">Dyer 217. pl. 6. 4 Eliz.</note> or Special.</p>
+               <p>General,
+<note place="margin">General.</note> as of all Quarrels, Actions, Executions, Demands, <hi>&amp;c.</hi>
+               </p>
+               <p>Special,
+<note place="margin">Special.</note> as when 'tis only of certain Matters, Facts and Things, as of a Treſpaſs, or all Actions of Treſpaſs, or of Debt or Detinue, <hi>&amp;c.</hi>
+               </p>
+               <p>Submiſſions are in two manners, either by Writing or by Word.
+<note n="*" place="margin">Note, Upon Submiſſion by Word only there is no re<g ref="char:EOLhyphen"/>medy to enforce the Party to perform the Award; but an Action on the Caſe for reciprocral promiſes will lie; and if Mony be awarded an Action of Debt will lie, 5 E. 4.7. 1 Keb. 600. 2 Keb. 238. 3 Keb. 64.</note>
+               </p>
+               <pb n="9" facs="tcp:44487:10"/>
+               <p>Thoſe that are by Writing are either by Obligation or by Cove<g ref="char:EOLhyphen"/>nant.</p>
+               <p>Which Obligation is either of Record, as a Recognizance, or by Deed between the Parties.</p>
+               <p>And this Submiſſion by Writing or by Word is either abſolute or conditional, as <hi>ſo that,</hi>
+                  <note place="margin">Abſolute and Conditional.</note> or <hi>provi<g ref="char:EOLhyphen"/>ded that,</hi> the Award be delivered by a certain day or time, ſealed or unſealed, indented, and the like;
+<note place="margin">See after.</note> and in ſuch Caſes the Time, Man<g ref="char:EOLhyphen"/>ner and Matter muſt be exactly obſerved, or the Arbitrement will be void. 8 <hi>Co. f.</hi> 97, 98. <hi>Dyer f.</hi> 22.</p>
+               <p>But it is neceſſary, that every Com-promiſe or Submiſſion be made by Writing
+<note n="*" place="margin">And conve<g ref="char:EOLhyphen"/>nient time and place therein limited for the yielding up of their Award to the Parties, <hi>&amp;c.</hi>
+                  </note>, (with the Par<g ref="char:EOLhyphen"/>ties Covenants or Bonds to per<g ref="char:EOLhyphen"/>form the Award that ſhall there<g ref="char:EOLhyphen"/>upon be made) That thereby the Arbitrators may know their power; and the Parties how far they are ſubject to their Sentence. And alſo leſt their Labour and Judgment therein ſhould be fru<g ref="char:EOLhyphen"/>ſtrate for want of means to com<g ref="char:EOLhyphen"/>pel the ſame to be executed.
+<note place="margin">Weſt. Symb. p. 2. ſect. 34.</note>
+               </p>
+               <p n="1">
+                  <pb n="10" facs="tcp:44487:11"/>1. <note place="margin">Countermand. Fitz. Arbit. 21. 21 H. 6.30. a. 28 H. 6.6. b. 5 E. 4.3. b. 8 E. 4.10. b. 12. a.</note> For it ſeems, That if the Sub<g ref="char:EOLhyphen"/>miſſion be without Deed, either of the Parties may countermand, and diſcharge the Arbitrators with<g ref="char:EOLhyphen"/>out Deed, and ſhall loſe nothing upon notice to the Arbitrators of ſuch diſcharge; except there be divers perſons concerned.</p>
+               <p n="2">2. <note place="margin">28 H. 6.6.</note> And if divers of one part and divers of the other part ſubmit themſelves to Arbitrement without Deed, one of them of the one part cannot diſcharge the Arbitra<g ref="char:EOLhyphen"/>tors without the other his Com<g ref="char:EOLhyphen"/>panions of the ſame party; for they were choſen by joynt Au<g ref="char:EOLhyphen"/>thority.</p>
+               <p n="3">3. <note place="margin">Finch 49 E. 3.9. 49 E. 3. Fitz. Arb. 22. 5 E. 4.3. b. 8 E. 4.11. b.</note> And if the Submiſſion be by Deed, the Diſcharge muſt likewiſe be by Deed. And 'tis ſaid, that in ſuch Caſe one of the Parties alone cannot countermand the Arbitrators.</p>
+               <p n="4">4. <note place="margin">Submiſſion by Bond. 5 E. 4.1. 21 H. 6.30. 28 H 6.6. 49 E. 3.9.</note> But if the Submiſſion be by Bond (as moſt commonly it is, though by ſome not thought ſo convenient, for that thereby the Parties may hazard the Penalty of the Bond for a Trifle or ſmall matter) though afterwards coun<g ref="char:EOLhyphen"/>termanded,
+<pb n="11" facs="tcp:44487:11"/>yet the Bond ſeemeth to be forfeited. And ſo ſays <hi>Brook. tit. Arbit.</hi> 35. 5 <hi>E.</hi> 4.1.</p>
+               <p n="5">5. And ſo it is adjudged 8 <hi>Co.</hi>
+                  <note place="margin">Bond forfeited</note> 
+                  <hi>fol.</hi> 82. That though a Man be bound to ſtand to an Arbitrement, yet he may countermand the Ar<g ref="char:EOLhyphen"/>bitrators; but in this Caſe it was further reſolved, that by the Coun<g ref="char:EOLhyphen"/>termand or Revocation of the power the Bond is forfeited, be<g ref="char:EOLhyphen"/>cauſe he was bound to ſtand to the Award which he does not do when he diſcharges the Arbitra<g ref="char:EOLhyphen"/>tor.</p>
+               <p n="6">6. <note place="margin">Requeſt. 2 Keb. p. 10. Siderf. 281.</note> In an Action upon the Caſe on promiſe to perform an Award on Submiſſion to <hi>A.</hi> and <hi>B.</hi> when their occaſion will permit, <hi>Keeling</hi> conceived that only a convenient time was to be given, at leaſt af<g ref="char:EOLhyphen"/>ter Requeſt, which <hi>Twiſden</hi> and <hi>Moreton</hi> agreed, but <hi>Windham</hi> was contrary, and that they have time during their Lives, as if it had been to be made at their Wills and Pleaſure. But if it be to be made generally without any time limited the Law implieth it muſt be done in convenient time. And it hath
+<pb n="12" facs="tcp:44487:12"/>been agreed by the Court,
+<note place="margin">2 Keb. p. 20.</note> That though the Submiſſion be when their Conveniences permit, yet af<g ref="char:EOLhyphen"/>ter Requeſt or convenient notice the Party may revoke on neglect by the Arbitrators.</p>
+               <p>And it was ſaid,
+<note place="margin">Bond forfeited by Marriage.</note> that where a Woman ſole ſubmits by Bond to ſtand to Award, and before, the Award marries, this is a Revoca<g ref="char:EOLhyphen"/>tion of the Submiſſion and For<g ref="char:EOLhyphen"/>feiture of the Bond; but the Parties agreeing to enter into new Bond, it was adjourned, 2 <hi>Keb.</hi> 865, 877. 3 <hi>Leon. p.</hi> 9.</p>
+               <p>But upon a Countermand there muſt be Notice given to the Ar<g ref="char:EOLhyphen"/>bitrators;
+<note place="margin">Notice.</note> for in pleading the De<g ref="char:EOLhyphen"/>fendant may take Iſſue upon it, That he did not revoke or coun<g ref="char:EOLhyphen"/>termand, <hi>&amp;c.</hi> And if there were no Notice it ſhall be found for the Defendant; but the Plaintiff need not aver, an expreſs Notice ſo he ſhew an implied one, 8 <hi>Co.</hi> 81, 82. 8 <hi>E.</hi> 4.10. &amp; 12.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="13" facs="tcp:44487:12"/>
+               <head>CHAP. III. <hi>Concerning the Parties to the Submiſ<g ref="char:EOLhyphen"/>ſion or Compromiſe; Perſons chiefly regarded in Submiſſion, are the ſtriving Perſons and the Arbi<g ref="char:EOLhyphen"/>trators.</hi>
+               </head>
+               <p>THE Perſons ſtriving be they,
+<note place="margin">Dyer 217. 4 Eliz.</note> between whom the Contro<g ref="char:EOLhyphen"/>verſie dependeth, and which ſub<g ref="char:EOLhyphen"/>mit or compromit the ſame.</p>
+               <p>And they muſt be two at the leaſt, the Plaintiff and the De<g ref="char:EOLhyphen"/>fendant, of which ſometime there be two or more of a ſide or Party.</p>
+               <div type="section">
+                  <head>What Perſons may ſubmit to Arbi<g ref="char:EOLhyphen"/>trement, and what not.</head>
+                  <p>All Perſons both Male and Fe<g ref="char:EOLhyphen"/>male may ſubmit to Arbitrement,
+<note place="margin">What perſons may ſubmit.</note> except they be prohibited by Na<g ref="char:EOLhyphen"/>ture or by Law,</p>
+                  <p>As Infants, Madmen,
+<note place="margin">Hindred by Nature.</note> Luna<g ref="char:EOLhyphen"/>ticks and Ideots, alſo ſuch as are Dumb, Deaf or Blind by Nature, but if it be by Chance, and they can write and read, 'tis ſaid they
+<pb n="14" facs="tcp:44487:13"/>may well by writing compromit or ſubmit to Arbitriment.</p>
+                  <p>And 'tis ſaid that Infants are hindred to ſubmit,
+<note place="margin">18 E. 4.2. 7 E 4.5.</note> but it ſeemeth to be meant by Deed, becauſe their Covenants and Bonds are void; but otherwiſe 'tis ſaid if an Infant ſubmit himſelf to an Award, he ſhall be bound to perform it as well as a Man of full age. 13 <hi>H.</hi> 4.12 <hi>a.</hi> 10 <hi>H.</hi> 6.14. <hi>a.</hi> But this hath been adjudged ſince to the contrary, betwixt <hi>Rudſon</hi> and <hi>Yates,</hi> 15 <hi>Car. B. R.</hi> That the ſubmiſſi<g ref="char:EOLhyphen"/>on of an Infant to an Arbitre<g ref="char:EOLhyphen"/>ment was abſolutely void.</p>
+                  <p>As Women Covert without their Husbands,
+<note place="margin">Hindred by Law.</note> 2 <hi>H.</hi> 5. 9 <hi>E.</hi> 3.28.</p>
+                  <p>And perſons civilly dead; as Monks, Fryers, Canons, pro<g ref="char:EOLhyphen"/>feſſed Nuns, <hi>&amp;c.</hi> 14 <hi>H.</hi> 8.6. 2 <hi>R.</hi> 2.5.</p>
+                  <p>So ſuch as are compelled there<g ref="char:EOLhyphen"/>to by threats and impriſonment,
+<note place="margin">Compelled by Threats.</note> 8 <hi>Aſſ.</hi> 25. 7 <hi>E.</hi> 4.21. for in ſub<g ref="char:EOLhyphen"/>miſſion, the conſent ought to be free.</p>
+                  <p>Alſo ſuch as are attainted of Felony or Treaſon,
+<note place="margin">Attainted.</note> and perſons Outlawed or waved in perſonal
+<pb n="15" facs="tcp:44487:13"/>Actions, for they have no Goods, 36 <hi>H.</hi> 6.26. 16 <hi>H.</hi> 6.47. 21 <hi>H.</hi> 7.7. 8 <hi>E.</hi> 4.4. 5 <hi>H.</hi> 7.16.</p>
+                  <p>So they that have joynt power with others,
+<note place="margin">Joynt Power.</note> cannot ſingly ſubmit in relation to ſuch power, with<g ref="char:EOLhyphen"/>out their fellows. As, a Dean without a Chapter, a Mayor without his Commonalty, the Ma<g ref="char:EOLhyphen"/>ſter of a College or Hoſpital with<g ref="char:EOLhyphen"/>out his Fellows; and ſo of other Societies and Guilds, 21 <hi>E.</hi> 4.13.</p>
+                  <p>And generally it ſeemeth,
+<note place="margin">General Rule. Weſt's Symb. Part 2. Sect. 20.</note> that in Award ſuch perſons only may of themſelves ſubmit, as may of themſelves make good Grants.</p>
+                  <p>If one of the Parties ſubmit him<g ref="char:EOLhyphen"/>ſelf to an Arbitrement on the one part,
+<note place="margin">Deputy.</note> and a Deputy on the other part in the name of the other par<g ref="char:EOLhyphen"/>ty,
+<note place="margin">4 Eliz. 217. <hi>a.</hi>
+                     </note> the Arbitrement thereupon made betwixt them ſeems to be good.</p>
+                  <p>The Husband may ſubmit him<g ref="char:EOLhyphen"/>ſelf to an Award for himſelf and his Wife,
+<note place="margin">Husband and Wife.</note> for the Chattels of which he had diſpoſition in right, and by reaſon of his Wife, and it ſhall bind his Wife,
+<note place="margin">21 H. 7.29. <hi>b.</hi>
+                     </note> and upon ſuch a ſubmiſſion, Mony awarded to be
+<pb n="16" facs="tcp:44487:14"/>paid to him and his Wife is good, <hi>Trin.</hi> 16 <hi>Car.</hi> in <hi>B. R.</hi>
+                  </p>
+                  <p>If divers on the one part have done a Wrong or Treſpaſs to ano<g ref="char:EOLhyphen"/>ther,
+<note place="margin">Joynt Treſpaſ<g ref="char:EOLhyphen"/>ſers.</note> and he to whom the wrong is done and one of the others ſubmit themſelves to an Award, upon the Award made,
+<note place="margin">7 H 4.31. <hi>b.</hi> 20 H. 6.12. <hi>a.</hi> and 41 <hi>a.</hi>
+                     </note> the others not being Parties to the ſubmiſſi<g ref="char:EOLhyphen"/>on, ſhall have advantage in ex<g ref="char:EOLhyphen"/>tinguiſhment of the Treſpaſs.</p>
+                  <p>If divers of the one part ſubmit themſelves to the Award of cer<g ref="char:EOLhyphen"/>tain perſons,
+<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oynt and ſe<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eral.</note> and divers of the other part, the Arbitrators have power to make an Award for mat<g ref="char:EOLhyphen"/>ters between them joyntly,
+<note place="margin">2 R. 3.18. <hi>b.</hi> 21 H. 7.29. <hi>b.</hi> Com. Dalton 289. <hi>b.</hi>
+                     </note> and ſo for matters between them ſeveral<g ref="char:EOLhyphen"/>ly.</p>
+                  <p>If divers of the one part and of the other part ſubmit themſelves to the Award of one,
+<note place="margin">Divers on each ſide ſubmit.</note> who makes an Award betwixt ſome of the one party and ſome of the other party, and not betwixt them all,
+<note place="margin">22 Ed. 4.25.</note> and ſay not any thing in his Award con<g ref="char:EOLhyphen"/>cerning the others, yet ſuch an Award is good, 1 <hi>Keble, pag.</hi> 886.</p>
+                  <p>An Award between one of one
+<pb n="17" facs="tcp:44487:14"/>ſide and one of another is ſuffici<g ref="char:EOLhyphen"/>ent, on a ſubmiſſion by ſeveral.</p>
+                  <p>Note, if the ſubmiſſion be, that they will ſtand to the Award of the Arbitrators for the whole matters ſubmitted or any parcel thereof.</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>Concerning the Arbitrators and Um<g ref="char:EOLhyphen"/>pire, and their Power, with ſeve<g ref="char:EOLhyphen"/>ral Preſidents of ſubmiſſion.</hi>
+               </head>
+               <p>
+                  <hi>ARbiter</hi> ſignifies an Arbritrator or Umpire.</p>
+               <p>They are properly called Ar<g ref="char:EOLhyphen"/>bitrators who (having no power from the Law) are made choice of for Judges,
+<note place="margin">Arbitrator, what.</note> by the conſent of the Parties in Controverſie to whom it is ſubmitted, that their Sentence ſhall ſtand. <hi>Johannes Paulus Lan<g ref="char:EOLhyphen"/>celottus</hi> in his Inſtitutes of the Can<g ref="char:EOLhyphen"/>non Law.</p>
+               <p>And by our Law Books an Arbitrator is deſcribed to be a pri<g ref="char:EOLhyphen"/>vate or extraordinary Judge,
+<note place="margin">9 E. 4.43. <hi>b.</hi> 16 E. 4.9. <hi>a.</hi> 19 H. 6.37. <hi>b.</hi> 8 E. 4.10. <hi>a.</hi>
+                  </note> cho<g ref="char:EOLhyphen"/>ſen by the Parties, to appeaſe the
+<pb n="18" facs="tcp:44487:15"/>debates betwixt them,
+<note place="margin">8 E. 4.10 <hi>a:</hi> 19 H. 6.37. <hi>a.</hi>
+                  </note> and to ar<g ref="char:EOLhyphen"/>bitrate and adjudge according to their good intent.</p>
+               <p>Who becauſe the Controverſie is committed to his pleaſure and arbitrement,
+<note place="margin">Why ſo cal<g ref="char:EOLhyphen"/>led.</note> is term'd an Arbitra<g ref="char:EOLhyphen"/>tor; and for that it is done by the mutual promiſe or compro<g ref="char:EOLhyphen"/>miſe of the Parties,
+<note place="margin">Dyer. 536. 19 El. 39.</note> he is called <hi>Compromiſſarius Judex.</hi>
+               </p>
+               <p>His power is larger than the power of any ordinary or other extraordinary Judge;
+<note place="margin">His Power.</note> for an Ar<g ref="char:EOLhyphen"/>bitrator hath power to judge ac<g ref="char:EOLhyphen"/>cording to the compromiſe o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſubmiſſion after his own mind, as well of the Fact as of the Law, but the other Judges are tyed to a pre<g ref="char:EOLhyphen"/>ſcript form,
+<note place="margin">Weſt Symb. Part 2. Sect. 21.</note> limited to them by the Law or Magiſtrate.</p>
+               <p>And ſince his power is ſo great and incontrolable,
+<note place="margin">Caution in choice of Ar<g ref="char:EOLhyphen"/>bitrators.</note> Men ought to be cautious how they make choice of Arbitrators; therefore it is thought fit that ſuch perſons be Elected as are ſufficient and in<g ref="char:EOLhyphen"/>different.</p>
+               <p>That they have ſufficient skill of the matter ſubmitted to them and have neither legal nor natural Impediments.
+<note place="margin">Skilful. Weſt <hi>ibid.</hi> Sect. 23, 26, 27.</note>
+               </p>
+               <pb n="19" facs="tcp:44487:15"/>
+               <p>That they be not Infants,
+<note place="margin">At years of diſcretion.</note> who by reaſon of their few years may want diſcretion and knowledge.</p>
+               <p>That they be neither Mad nor Ideots, for ſuch are void of Un<g ref="char:EOLhyphen"/>derſtanding.</p>
+               <p>That they be neither Deaf,
+<note place="margin">Having their principal Sen<g ref="char:EOLhyphen"/>ſes.</note> Dumb or Blind, for thereby their principal Senſes neceſſary for the apprehenſion of the Matter may be impaired.</p>
+               <p>As for indifferency,
+<note place="margin">Indifferent perſons with<g ref="char:EOLhyphen"/>out Malice, <hi>&amp;c.</hi>
+                  </note> That they be void of Malice and Favour to either of the parties, that they be not notorious by Outlawry, Ex<g ref="char:EOLhyphen"/>communicated, Irreligious, nor Covetous, for though he hath abſolute power, yet his Judgment or Sentence ought to be ſincere and incorrupt, according to right and equity, without malice, flat<g ref="char:EOLhyphen"/>tery, and every other vicious af<g ref="char:EOLhyphen"/>fection or perturbation, which may in any ſort lead him awry from the right Path of Juſtice and Equity, <hi>Weſt Symb. Part</hi> 2. <hi>Sect.</hi> 27. Theſe are thought to be fit Qualities, though the Law pre<g ref="char:EOLhyphen"/>ſcribes no Rules herein.</p>
+               <pb n="18" facs="tcp:44487:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:44487:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:44487:17"/>
+               <p> Having ſhewn what perſons are moſt fit to be Elected Arbitrators, we will proceed, reſpecting in the Arbitrators theſe three things.</p>
+               <p n="1">1. His Ordinance, from whom it is.</p>
+               <p n="2">2. His Authority, what it is.</p>
+               <p n="3">3. His Duty, wherein it conſiſts.</p>
+               <p>Touching his Ordinance,
+<note place="margin">20 H. 6.41 <hi>a.</hi> 8 E. 4.10. <hi>a.</hi>
+                  </note> he is Ordained by theſe two things, <hi>viz.</hi> by the Election of the Parties, and by his own undertaking of the charge.</p>
+               <p>Touching his Authority,
+<note place="margin">19 H. 6.37. 8 E. 4. f. 1. and 9. 9 E. 4.43. <hi>b.</hi> 16 E. 4.9. <hi>a.</hi>
+                  </note> what it is; it is derived from the ſub<g ref="char:EOLhyphen"/>miſſion, and extendeth no far<g ref="char:EOLhyphen"/>ther, and thereby he is Judge be<g ref="char:EOLhyphen"/>tween the Parties, and therefore he cannot transfer his Authority over to any other.</p>
+               <p>Touching his Duty, it conſiſteth in three things. Firſt, to hear the grief of the Party. Secondly, to judge according to Equity. Third<g ref="char:EOLhyphen"/>ly to give notice of his Award.</p>
+               <p>Of the two firſt Branches enough hath been ſaid before, on<g ref="char:EOLhyphen"/>ly it remaineth to ſet down ſome
+<pb n="21" facs="tcp:44487:17"/>Forms and Preſidents of Election and Submiſſion in Writing, which are the beſt and moſt in uſe.</p>
+               <div type="section">
+                  <head>Preſidents.</head>
+                  <head type="sub">The Form of a Submiſſion or Com<g ref="char:EOLhyphen"/>promiſe by way of Covenants.</head>
+                  <p>
+                     <hi>THIS Indenture</hi> made the 1ſt day of <hi>Aug.</hi> in the fourth year of the Reign of our Sove<g ref="char:EOLhyphen"/>reign Lord and Lady <hi>William</hi> and <hi>Mary</hi> by the Grace of God of <hi>England, Scotland, France</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land</hi> King and Queen, Defenders of the Faith, <hi>&amp;c. Annoque Domi<g ref="char:EOLhyphen"/>ni,</hi> 1692. between <hi>A. B.</hi> of, <hi>&amp;c.</hi> of the one part, and <hi>C. D.</hi> of, <hi>&amp;c.</hi> of the other part, <hi>Witneſſeth,</hi> That the ſaid <hi>A. B.</hi> and <hi>C. D.</hi> do by theſe Preſents willingly com<g ref="char:EOLhyphen"/>promit and ſubmit themſelves,
+<note place="margin">Compromit, that is, do mu<g ref="char:EOLhyphen"/>tually promiſe.</note> and either of them, to the Award, Arbitrement, Order, Determina<g ref="char:EOLhyphen"/>tion, final End and Judgment of <hi>E. F.</hi> of, <hi>&amp;c.</hi> and <hi>G. H.</hi> of, <hi>&amp;c.</hi> Arbitrators indifferently choſen,
+<pb n="22" facs="tcp:44487:18"/>elected and named, as well by the ſaid <hi>A. B.</hi> as the ſaid <hi>C. D.</hi> to arbi<g ref="char:EOLhyphen"/>trate, award, order, judge and deter<g ref="char:EOLhyphen"/>mine of, for, upon or concerning all and all manner of Action and Actions, Cauſe and Cauſes of Actions, Suits, Bills, Bonds, Spe<g ref="char:EOLhyphen"/>cialties, Judgments, Executions, Extents, Quarrels, Controverſies, Treſpaſſes, Damages and De<g ref="char:EOLhyphen"/>mands whatſoever at any time heretofore had made, moved, brought, commenced, ſued, pro<g ref="char:EOLhyphen"/>ſecuted, done, ſuffered, commit<g ref="char:EOLhyphen"/>ted or depending by and between the ſaid Parties [Here if you have any Exceptions you may enter them,
+<note place="margin">Exceptions.</note> as, Except one Action of Debt depending between the ſaid Parties in their Majeſties Court of Kings Bench, and ex<g ref="char:EOLhyphen"/>cept one Debt of 10 <hi>l.</hi> due to the ſaid <hi>A. B.</hi> by the ſaid <hi>C. D.</hi> for the Price of certain Corn, <hi>&amp;c.</hi> And except all Lands and Tene<g ref="char:EOLhyphen"/>ments of the ſaid <hi>A. B. &amp;c.</hi> And ſuch like Exceptions] So always as the ſaid Award, Arbitrement, Order, Determination, final End and Judgment of the ſaid Arbi<g ref="char:EOLhyphen"/>trators
+<pb n="23" facs="tcp:44487:18"/>of, for or upon the Pre<g ref="char:EOLhyphen"/>miſes be made and given up in Writing
+<note n="*" place="margin">Note, you may ſay by Writing in<g ref="char:EOLhyphen"/>dented under both their Hands and Seals, and one part thereof delivered or cauſed to be delivered by the ſaid Arbi<g ref="char:EOLhyphen"/>trators to the ſaid <hi>A. B.</hi> or his certain At<g ref="char:EOLhyphen"/>torny in that behalf requi<g ref="char:EOLhyphen"/>ring the ſame on the — day of — at or in the Dwelling<g ref="char:EOLhyphen"/>houſe of — in the ſaid Coun<g ref="char:EOLhyphen"/>ty of — and the other part of the ſaid Award be likewiſe de<g ref="char:EOLhyphen"/>livered or cauſed to be delivered to the ſaid <hi>C. D.</hi> or his certain Attorny in that behalf, requiring the ſame at the ſaid day and place, <hi>&amp;c.</hi>
+                     </note> under their Hands and Seals, ready to be delivered to the ſaid Parties or ſuch of them as ſhall come and require the ſame on or before the day of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> next enſuing the date of theſe Preſents at or in the Dwelling-Houſe of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> in <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> aforeſaid, and ſo always that the ſaid Arbi<g ref="char:EOLhyphen"/>trators do not by the ſaid Award, order or appoint any Act or Acts, Thing or Things to be done or performed by or to any perſon or perſons, other than to or by the ſaid Parties to theſe Preſents their Heirs, Executors, Adminiſtrators or Aſſigns or ſome of them, and not to or by any Stranger or Stran<g ref="char:EOLhyphen"/>gers to this preſent Submiſſion. And the ſaid <hi>A. B. C. D.</hi> and ei<g ref="char:EOLhyphen"/>ther of them, for themſelves, their Heirs, Executors and Adminiſtra<g ref="char:EOLhyphen"/>tors, and the Heirs, Executors and Adminiſtrators of either of them do by theſe Preſents mutually co<g ref="char:EOLhyphen"/>venant, conclude, promiſe and
+<pb n="24" facs="tcp:44487:19"/>agree,
+<note place="margin">Note, You may make it ſo as that the Arbitrators ſhall give no<g ref="char:EOLhyphen"/>tice to the Parties of their Award.</note> to and with the other his Executors and Adminiſtrators, and every of them, that neither they nor either of them will at any time hereafter revoke the Autho<g ref="char:EOLhyphen"/>rity hereby given to the ſaid Ar<g ref="char:EOLhyphen"/>bitrators, nor diſcharge them nor either of them of the ſaid faculty or power of Arbitration.
+<note place="margin">And that it ſhall he deli<g ref="char:EOLhyphen"/>vered to both Parties.</note> And that they and either of them, and the Heirs; Executors, Admi<g ref="char:EOLhyphen"/>niſtrators and Aſſigns of either of them on their ſeveral parts ſhall and will well and truly obſerve, perform, fulfil and keep all and every Clauſe, Sentence, Article, Submiſſion and Agree<g ref="char:EOLhyphen"/>ment in theſe Preſents mentioned on his or their part to be perform<g ref="char:EOLhyphen"/>ed and kept according to the tenor, true intent and mean<g ref="char:EOLhyphen"/>ing of the ſame. <hi>In Witneſs</hi> whereof the ſaid Parties to this preſent Submiſſion have inter<g ref="char:EOLhyphen"/>changeably ſet their Hands and Seals the day and year firſt above written.</p>
+                  <p>Sealed and delivered in the preſence of</p>
+                  <pb n="25" facs="tcp:44487:19"/>
+                  <p>Note, This and ſuch like are ſaid to be Submiſſions Conditio<g ref="char:EOLhyphen"/>nal, becauſe of the Words <hi>So al<g ref="char:EOLhyphen"/>ways that the ſaid Award,</hi> &amp;c. <hi>be made in Writing,</hi> &amp;c. And <hi>So al<g ref="char:EOLhyphen"/>ways that the Arbitrators do not order any thing to be done by a Stranger,</hi> and the like.</p>
+                  <p>And in this Caſe the Award muſt be made of all things accor<g ref="char:EOLhyphen"/>ding to the Submiſſion, becauſe the Parties ſubmit only on thoſe Terms. And if the Arbitrators award contrary, it will avoid the whole Award, as you may ob<g ref="char:EOLhyphen"/>ſerve by the Books cited here<g ref="char:EOLhyphen"/>after.</p>
+                  <p>Note, it is ſaid, That if the Sub<g ref="char:EOLhyphen"/>miſſion be, that the Parties will ſtand to the Award of the Ar<g ref="char:EOLhyphen"/>bitrators for the whole Matter ſubmitted, or any parcel thereof, then the Award may be made for parcel, 39 <hi>H.</hi> 6.11.</p>
+               </div>
+               <div type="section">
+                  <pb n="26" facs="tcp:44487:20"/>
+                  <head>A ſingle Bond of Arbitration of all Actions without Exceptions and without an Umpire.</head>
+                  <p>
+                     <hi>Noverint univerſi per praeſentes me</hi> A. B. <hi>de</hi> C. <hi>in Com.</hi> D. <hi>Gen. teneri &amp; firmiter obligari</hi> E. F. <hi>de</hi> C. <hi>praedict. Gen' in viginti li<g ref="char:EOLhyphen"/>bris bonae &amp; legalis monetae</hi> Angliae <hi>Solvend. eidem</hi> E. F. <hi>aut ſuo certo Attornato, Executoribus vel Aſſign. ſuis, Ad quam quidem ſolution' bene &amp; fideliter faciend' obligo me, Hae<g ref="char:EOLhyphen"/>redes, Executores &amp; Adminiſtrato<g ref="char:EOLhyphen"/>res meos firmiter per praeſentes ſi<g ref="char:EOLhyphen"/>gillo meo ſigillat' dat. primo die</hi> Auguſti <hi>Anno Regni Domini noſtr'</hi> Willielmi <hi>&amp; Dominae</hi> Mariae <hi>Dei gratia</hi> Angliae, Scotiae, Franciae <hi>&amp;</hi> Hiberniae <hi>Regis &amp; Reginae Fidei Defenſor',</hi> &amp;c. <hi>quarto Annoque Do<g ref="char:EOLhyphen"/>mini,</hi> 1692.</p>
+               </div>
+               <div type="section">
+                  <head>Or in Engliſh thus:</head>
+                  <p>KNow all Men by theſe Pre<g ref="char:EOLhyphen"/>ſents, That I <hi>A. B.</hi> of <hi>C.</hi> in the County of <hi>D.</hi> Gent. am held and firmly bound unto <hi>E. F.</hi> of
+<pb n="27" facs="tcp:44487:20"/>
+                     <hi>C.</hi> aforeſaid Gent.
+<note place="margin">Note, You may make the penalty as you think fit, ac<g ref="char:EOLhyphen"/>cording to the Circumſtances ſubmitted, but it ought to be reaſonable.</note> in Twenty Pounds of good and lawful Mony of <hi>England,</hi> to be paid to the ſaid <hi>E. F.</hi> or his certain Attorny, his Executors, Adminiſtrators or Aſ<g ref="char:EOLhyphen"/>ſigns, to which Payment well and truly to be made I bind my ſelf, my Heirs, Executors and Admi<g ref="char:EOLhyphen"/>niſtrators firmly by theſe Preſents, ſealed with my Seal, dated the firſt day of <hi>Auguſt</hi> in the fourth year of the Reign of our Sove<g ref="char:EOLhyphen"/>raign Lord and Lady <hi>William</hi> and <hi>Mary</hi> by the Grace of God of <hi>England, Scotland, France</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land</hi> King and Queen Defenders of the Faith, <hi>&amp;c. Annoque Domi<g ref="char:EOLhyphen"/>ni,</hi> &amp;c. 1692.</p>
+                  <p>The Condition of this Obliga<g ref="char:EOLhyphen"/>tion is ſuch, That if the above bounden <hi>A. B.</hi> his Heirs, Execu<g ref="char:EOLhyphen"/>tors and Adminiſtrators for his and their parts and behalfs ſhall and do in all things well and truly ſtand to, obey, abide, ob<g ref="char:EOLhyphen"/>ſerve, perform, fulfil and keep the Award, Order, Arbitrement, Judg<g ref="char:EOLhyphen"/>ment, final End and Determina<g ref="char:EOLhyphen"/>tion of <hi>G. H.</hi> and <hi>J. K.</hi> both of <hi>C.</hi>
+                     <pb n="28" facs="tcp:44487:21"/>aforeſaid in the ſaid County of <hi>D.</hi> 
+                     <label type="milestone">
+                        <seg type="milestoneunit">Nota. </seg>
+                     </label> Gent. [Or otherwiſe, naming the Arbitrators, their places and Additions] Arbitrators indiffe<g ref="char:EOLhyphen"/>rently choſen, elected and named, as well on the part and behalf of the above bounden <hi>A. B.</hi> as of the above named <hi>E. F.</hi> to arbitrate, award, order, judge and deter<g ref="char:EOLhyphen"/>mine of, for, upon and concern<g ref="char:EOLhyphen"/>ing all and all manner of Acti<g ref="char:EOLhyphen"/>on and Actions, Cauſe and Cauſes of Actions, Suits, Bills, Bonds, Specialties, Judgments, Executions Quarrels, Controverſies, Treſpaſſes, Damages and Demands whatſo<g ref="char:EOLhyphen"/>ever, at any time heretofore had made, moved, brought, commenced ſued, proſecuted, done, ſuffered committed or depending by o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> between the ſaid Parties, ſo al<g ref="char:EOLhyphen"/>ways as the ſaid Award, Arbi<g ref="char:EOLhyphen"/>trement, Order, Determination final End and Judgment of the ſaid Arbitrators, of, for or upon the Premiſſes be made and given up in Writing indented under their Hands and Seals ready to be delivered to the ſaid Parties in difference (or ſuch of them a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="29" facs="tcp:44487:21"/>ſhall deſire the ſame) on or before the firſt day of <hi>Sept.</hi> next enſuing the date above written [Or other<g ref="char:EOLhyphen"/>wiſe as the day agreed on will be] Then this Obligation to be void and of none effect, <label type="milestone">
+                        <seg type="milestoneunit">Nota. </seg>
+                     </label> or elſe to ſtand and remain in full force and virtue.</p>
+                  <p>Sealed and delivered in the preſence of</p>
+                  <p>Note, This may properly be called a Conditional Submiſſion general by Bond.</p>
+                  <p>And note, That each Party muſt give a Bond unto the other, Word for Word only changing their Names as occaſion requires.</p>
+               </div>
+               <div type="section">
+                  <head>A Bond of Arbitration without Exceptions, from two to two, and without an Umpire.</head>
+                  <p>
+                     <hi>NOverint univerſi per praeſentes nos</hi> A. B. <hi>de</hi> C. <hi>in Com.</hi> D.
+<note place="margin">You muſt name the Par<g ref="char:EOLhyphen"/>ties, their Places and Additions right.</note> 
+                     <hi>Gen. &amp;</hi> E. F. <hi>de</hi> C. <hi>praedict. in Com. praedict. Gen. teneri &amp; firmi<g ref="char:EOLhyphen"/>ter
+<pb n="30" facs="tcp:44487:22"/>obligari</hi> G. H. <hi>de</hi> C. <hi>praedict. i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Com. praedict.</hi> Yeoman, <hi>&amp;</hi> J. K. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> C. <hi>praedict. in Com. praedict.</hi> Yeo<g ref="char:EOLhyphen"/>man, <hi>in centum libris bonae &amp; l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> galis monetae</hi> Angliae <hi>ſolvend. eiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> dem</hi> G. H. <hi>&amp;</hi> J. K. <hi>ſeu eorum a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> teri</hi>
+                     <note n="*" place="margin">Note, If the Bond be to three you ſay, <hi>ſeu corum ali<g ref="char:EOLhyphen"/>cui.</hi>
+                     </note> 
+                     <hi>vel eorum certo Attornato Ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>cutoribus, Adminiſtratoribus vel Aſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ſignatis ſuis. Ad quam quidem ſo lutionem bene &amp; fideliter facien<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> obligamus nos &amp;</hi>
+                     <note place="margin">† If three be bound you ſay, <hi>obligamus nos &amp; quemlibet noſtrum.</hi>
+                     </note> 
+                     <hi>utrumque noſtru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> per ſe pro toto &amp; in ſolido Haerede<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Executores &amp; Adminiſtratores noſtro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> &amp;</hi>
+                     <note place="margin">‖ If three be bound you ſay, <hi>cujuſtibet noſtrum.</hi>
+                     </note> 
+                     <hi>utriuſque noſtrum firmiter pe<g ref="char:EOLhyphen"/>praeſentes ſigillis noſtris ſigillat. da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> primo die</hi> Auguſti <hi>Anno Regni Do<g ref="char:EOLhyphen"/>mini</hi> Willielmi <hi>&amp; Dominae</hi> Maria<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Dei gratia</hi> Angliae, Scotiae, Fran<g ref="char:EOLhyphen"/>ciae <hi>&amp;</hi> Hiberniae <hi>Regis &amp; Regin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Fidei Defenſor', &amp;c. quarto Annoqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Domini</hi> 1692.</p>
+               </div>
+               <div type="section">
+                  <head>Or thus in Engliſh.</head>
+                  <p>KNow all Men by theſe Pre<g ref="char:EOLhyphen"/>ſents,
+<note place="margin">Note, You muſt name the Parties, their places, and Additions right.</note> That we <hi>A. B.</hi> of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in the County of <hi>D.</hi> Gent. and <hi>E.F.</hi> of <hi>C.</hi> aforeſaid in the County a fore ſaid Gent. are held and firm<g ref="char:EOLhyphen"/>ly bound to <hi>G. H.</hi> of <hi>C.</hi> aforſaid
+<pb n="31" facs="tcp:44487:22"/>in the County aforeſaid, Yeoman, and <hi>J. K.</hi> of <hi>C.</hi> aforeſaid in the County aforeſaid Yeoman, in one hundred pounds of good and law<g ref="char:EOLhyphen"/>ful Mony of <hi>England</hi> to be paid to them the ſaid <hi>G. H.</hi> and <hi>J. K.</hi> or to one
+<note n="*" place="margin">Note, When a Bond is made to three you ſay, <hi>or to any of them.</hi>
+                     </note> of them or their cer<g ref="char:EOLhyphen"/>tain Attorny, their Executors, Ad<g ref="char:EOLhyphen"/>miniſtrators or Aſſigns: To which payment well and truly to be made, we bind our ſelves and
+<note place="margin">† Note, When a Bond is from three, you ſay, <hi>and every of us.</hi>
+                     </note> each of us by himſelf for the whole entirely, our Heirs, Exe<g ref="char:EOLhyphen"/>cutors and Adminiſtrators, and the Heirs, Executors and Admi<g ref="char:EOLhyphen"/>niſtrators of
+<note place="margin">‖ When three are bound, you ſay, <hi>of every of us.</hi>
+                     </note> each of us firmly by theſe Preſents, ſealed with our Seals, dated the firſt day of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> in the fourth year of the Reign (<hi>&amp;c.</hi> as before in the other Bond.)</p>
+                  <p>Note, You muſt not date a Bond of any day that is not come, though if you happen to date it of a day that is paſt it may ſerve.</p>
+                  <pb n="32" facs="tcp:44487:23"/>
+                  <p>The Condition of this Obliga<g ref="char:EOLhyphen"/>tion is ſuch, That if the above bounden <hi>A. B.</hi> and <hi>E. F.</hi> their Heirs, Executors and Admini<g ref="char:EOLhyphen"/>ſtrators, for their and every of their parts and behalfs ſhall and do in all things well and truly ſtand to, obey (<hi>&amp;c.</hi> as in the o<g ref="char:EOLhyphen"/>ther Condition till you come to) Arbitrators indifferently named as well on the part and behalf of the above bounden <hi>A. B.</hi> and <hi>E. F.</hi> as of the above named <hi>G. H.</hi> and <hi>J. K.</hi> to arbitrate, a<g ref="char:EOLhyphen"/>ward, order, judge, (<hi>&amp;c.</hi> as in the other till you come to) by or between the ſaid Parties or any of them, So always as the ſaid Award, <hi>&amp;c.</hi> as before in the other.</p>
+                  <p>Sealed and delivered in the preſence of</p>
+                  <p>Note, you may put Exceptions in theſe Conditions as well as in Covenants.</p>
+               </div>
+               <div type="section">
+                  <pb n="33" facs="tcp:44487:23"/>
+                  <head>The Condition of a Bond of Arbitra<g ref="char:EOLhyphen"/>tion, with an Umpire certain, no<g ref="char:EOLhyphen"/>minated therein.</head>
+                  <p>THE Condition of this Obliga<g ref="char:EOLhyphen"/>tion is ſuch,
+<note place="margin">Note, the Bond is as before.</note> That if the above-bounden <hi>A. B. &amp;c.</hi> as in the others, till you come to — ready to be delivered to the ſaid Parties in difference, or ſuch of them as ſhall deſire the ſame, in or before the firſt day of <hi>Sept.</hi> next enſuing the date above-writ<g ref="char:EOLhyphen"/>ten. And if the ſaid Arbitrators ſhall not make and give up their Award and Arbitrement, of and upon the Premiſſes, on or before the ſaid firſt day of <hi>September,</hi> if then the ſaid <hi>A. B.</hi> his Execu<g ref="char:EOLhyphen"/>tors, Adminiſtrators, and every of them do and ſhall ſtand to.</p>
+                  <p>If the Submiſſion be concern<g ref="char:EOLhyphen"/>ing a Title of Land, Mr. <hi>Weſt</hi> in his <hi>Symb.</hi> part 2. ſect. 40. adviſes to word it thus:</p>
+                  <p>As well of, for and concern<g ref="char:EOLhyphen"/>ing the Right, Title, Intereſt, Uſe,
+<pb n="34" facs="tcp:44487:24"/>Poſſeſſion and demand, of and in the Manor of <hi>S.</hi> with the Appur<g ref="char:EOLhyphen"/>tenances in <hi>S.</hi> in the ſaid County of <hi>Y.</hi> and all Lands, Tenements, and Hereditaments, with the Ap<g ref="char:EOLhyphen"/>purtenances in <hi>S.</hi> aforeſaid in the Occupation of the ſaid <hi>A. B.</hi> and his Aſſigns, as of and upon all Acti<g ref="char:EOLhyphen"/>ons, Treſpaſſes, Suits, Quarrels, Debts, Duties, Debates, Griefs, In<g ref="char:EOLhyphen"/>conveniencies and Demands, had moved, ſtirred or depending be<g ref="char:EOLhyphen"/>tween the ſaid Parties, concerning the ſaid Manor, Tenements and Premiſſes, or any part thereof; and alſo if the ſaid <hi>A.B.</hi> before the
+<note n="*" place="margin">Or ſuch other time as may be thought con<g ref="char:EOLhyphen"/>venient.</note> Feaſt of <hi>P.</hi> now next coming, do ſhew unto the ſaid Arbitra<g ref="char:EOLhyphen"/>tors all ſuch Writings as he hath concerning the ſaid Manor and Premiſſes, at ſuch time and place as the ſaid Arbitrators ſhall appoint for the ſight thereof, — So always That, (<hi>&amp;c.</hi> as in others) That then <hi>&amp;c.</hi> as before, in others.</p>
+                  <p>And Note, ſuch a ſubmiſſion as this may properly be called a ſpecial Conditional Submiſſion.</p>
+                  <p>And though the Title of Land
+<pb n="35" facs="tcp:44487:24"/>is (as aforeſaid) of it ſelf not Ar<g ref="char:EOLhyphen"/>bitrable, and therefore an Award pleaded in ſuch caſe no Bar, yet being by Bond, in this caſe the Bond will be forefeited for not per<g ref="char:EOLhyphen"/>forming the Award.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>The Duty of the Parties after ſubmiſ<g ref="char:EOLhyphen"/>ſion, and concerning publiſhing the Award, Notice and Delivery.</hi>
+               </head>
+               <p>THE Election and Submiſſion being thus made.</p>
+               <p>In the next place it is the Duty of the Parties to come before the Arbitrators,
+<note place="margin">Parties to ſhew their Grievances. 8 E. 4.10. <hi>a.</hi>
+                  </note> and to ſhew their Grievances,
+<note place="margin">Arbitrators muſt hear them.</note> and the Arbitrators ought to hear them, and to judge accordingly, or otherwiſe they are no good Judges.</p>
+               <p>The Arbitrators having heard their Grievances and Matters,
+<note place="margin">Award agreed upon.</note> and agreed upon their Award, the third part of the Duty of an Ar<g ref="char:EOLhyphen"/>bitrator is the publiſhing or noti<g ref="char:EOLhyphen"/>fying of his Award.</p>
+               <pb n="36" facs="tcp:44487:25"/>
+               <p>And it is to be conſidered,
+<note place="margin">Award to be publiſhed, or notice there<g ref="char:EOLhyphen"/>of given.</note> That the publiſhing or notifying of an Award is either provided for and ordained by the ſubmiſſi<g ref="char:EOLhyphen"/>on it ſelf, Or elſe it is left and permitted to the diſcretion of the Arbitrator.</p>
+               <p>If it be provided for by the ſubmiſſion, as ſometime it is and may be,
+<note place="margin">If it be ſo provided by ſubmiſſion.</note> that the ſame Award made be notified by the Arbitra<g ref="char:EOLhyphen"/>tors to the parties or ſome of them, <hi>&amp;c.</hi> and that either by a certain day or time, or elſe without limi<g ref="char:EOLhyphen"/>tation of any time.</p>
+               <p>Then in ſuch caſe its ſaid Ar<g ref="char:EOLhyphen"/>bitrement is no Arbitrement be<g ref="char:EOLhyphen"/>fore it be pronounced.
+<note place="margin">Elſe it is no Arbitrement. 8 E. 4.21. <hi>b.</hi>
+                  </note>
+               </p>
+               <p>Alſo,
+<note place="margin">Delivery of the Award. 8 E. 4.11. 8 E. 4.21 <hi>a.</hi> 1 H. 7.5. <hi>a.</hi> 27 H. 8.46.</note> where by the ſubmiſſion it is appointed or conditionally pro<g ref="char:EOLhyphen"/>vided, that the Award ſhall be de<g ref="char:EOLhyphen"/>livered to the Parties, <hi>&amp;c.</hi> it is then no Arbitrement in Law be<g ref="char:EOLhyphen"/>fore it be delivered in Deed.</p>
+               <p>But if the ſubmiſſion be,
+<note place="margin">Where the Parties muſt take notice at their Peril.</note> That the Award ſhall be delivered to the Parties, <hi>(&amp;c.)</hi> before ſuch a day, requiring the ſame, and no certain day limited when it ought to be delivered, then the
+<pb n="37" facs="tcp:44487:25"/>Parties are obliged to take notice of the Award at their peril.
+<note place="margin">8 E. 4.1, 8, 10, 13, 21, <hi>&amp;c.</hi>
+                  </note>
+               </p>
+               <p>If divers of the one party,
+<note place="margin">How to be de<g ref="char:EOLhyphen"/>livered when divers are concerned.</note> and divers of the other part ſubmit themſelves to the Arbitrement of another, provided that he ſhall deliver to the Parties or one of them,
+<note place="margin">4, 5 El. 218. <hi>b.</hi> 5.</note> the Arbitrator is not obli<g ref="char:EOLhyphen"/>ged to deliver it to two of one Party, or to one of each Party, but 'tis ſufficient to deliver it to any of the ſaid Parties.</p>
+               <p>If the ſubmiſſion be,
+<note place="margin">Delivered by word.</note> That the Arbitrement ſhall be delivered be<g ref="char:EOLhyphen"/>fore ſuch a day, it may as well be delivered by Word as by Deed;
+<note place="margin">5 El. 218. <hi>b.</hi> 5.</note> if the ſubmiſſion be not, that it ſhall be delivered by Deed or Writing.
+<note place="margin">By Deed.</note>
+               </p>
+               <p>If the ſubmiſſion be that the Arbitrement ſhall be delivered,
+<note place="margin">5 H 7.7. <hi>a.</hi>
+                  </note> it may be made in one County and delivered in another County.</p>
+               <p>If the ſubmiſſon be by Deed,
+<note place="margin">Day paſt, and new ſubmiſſi<g ref="char:EOLhyphen"/>on. 49 E. 3.9.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> and the time paſt in which the Arbitrement ought to be made, the parties cannot prorogue the time over to make the Award, without a new ſubmiſſion to that purpoſe; and whatſoever the Ar<g ref="char:EOLhyphen"/>bitrators
+<pb n="38" facs="tcp:44487:26"/>do award after the time appointed,
+<note place="margin">Void Award. 8 H 6. f. 18.</note> is void.</p>
+               <p>But if the ſubmiſſion be with<g ref="char:EOLhyphen"/>out Deed,
+<note place="margin">Time proro<g ref="char:EOLhyphen"/>gued. 49 E. 3.9. Fitz. Agard 22.</note> the Parties may pro<g ref="char:EOLhyphen"/>rogue the time which was given to make the Award.</p>
+               <p>If the Arbitrators make their Award between the Parties one day,
+<note place="margin">Arbitrators cannot make two Awards. 22 H 6.52. a. 33 H. 6.28. b.</note> and give their judgment therein, they cannot make ano<g ref="char:EOLhyphen"/>ther Award between the Parties another day, albeit the time given by the ſubmiſſion is not expired.</p>
+               <p>An Arbitrement cannot be made part at one time and part at another,
+<note place="margin">Or by parcel.</note>
+                  <note place="margin">39 <hi>H.</hi> 6.12. a. 8 E. 4.10. b. 19. E. 4.1. a. 3 H. 4.1. b.</note> albeit it be within the time of ſubmiſſion.</p>
+               <p>Note, this is meant where it is declared or pronounced to the Parties by pieces or parcels.</p>
+               <p>But the Arbitrators may diſ<g ref="char:EOLhyphen"/>courſe betwixt themſelves,
+<note place="margin">But may have ſeveral Diſ<g ref="char:EOLhyphen"/>courſes. 47 E. 3.21 a. 39 H 6.12 a.</note> and agree upon one thing one day, and of another thing another day, and in the end make one intire Award of the whole, and it is good.</p>
+               <p>If the Arbitrators Award one thing on one part,
+<note place="margin">Time expired before Agree<g ref="char:EOLhyphen"/>ment.</note> and before they can agree of their Award
+<pb n="39" facs="tcp:44487:26"/>for the remainder, the time given by the ſubmiſſion expire,
+<note place="margin">39 H. 6.12. a.</note> their whole Award is void.</p>
+               <p>Laſtly,
+<note place="margin">Notice in Con<g ref="char:EOLhyphen"/>ſcience to be given. 8 E. 4.10. a. 8 E. 4.2. a. and b.</note> where by the ſubmiſſion there is no order taken for the delivery or publication of the Award, then in honeſty and con<g ref="char:EOLhyphen"/>ſcience the Arbitrator is obliged to make notice to the Parties of it.</p>
+               <p>But in rigour of Law the Ar<g ref="char:EOLhyphen"/>bitrement it ſelf is intended to be a thing known.
+<note place="margin">But not in ri<g ref="char:EOLhyphen"/>gour of Law. 8 E. 4.1. b. 21. b.</note>
+               </p>
+               <p>And therefore the Parties to the Arbitrement are bound to take notice of it at their Peril,
+<note place="margin">8 E. 4.1.8.21. 18 E. 4.18. a. 1 H. 7.5. a.</note> eſpe<g ref="char:EOLhyphen"/>cially if they be bound to ſtand to the Award, <hi>&amp;c.</hi>
+               </p>
+               <p>Although the Parties are not to have notice given them of the Arbitrement,
+<note place="margin">Notice of one act depending on another. 8 E. 4.21. b. 20 E. 4.8. b.</note> yet if the Arbitrators award that one of the Parties ſhall do an act which depends upon another firſt to be done of the other Party, he ſhall have notice of it.</p>
+               <p>But now all ſubmiſſions are uſually by Bond, conditionally,
+<note place="margin">General Rule.</note> ſo as the Award be made in Wri<g ref="char:EOLhyphen"/>ting, and ready to be delivered
+<pb n="40" facs="tcp:44487:27"/>to the Parties or ſuch of them as ſhall require the ſame, <hi>&amp;c.</hi> and in this caſe it is clearly re<g ref="char:EOLhyphen"/>ſolved and agreed, That the Par<g ref="char:EOLhyphen"/>ties having ſo bound themſelves are obliged to take notice of the Award at their peril, 18 <hi>Ed.</hi> 4.18 <hi>a.</hi> 4 <hi>Coke</hi> 82. 8 <hi>Coke f.</hi> 9, 92.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. <hi>What things are chiefly to be re<g ref="char:EOLhyphen"/>garded in Arbitrements or Awards; and firſt, that it muſt be according to the ſubmiſſion.</hi>
+               </head>
+               <p>HAving now received the A<g ref="char:EOLhyphen"/>ward from the Arbitrators; Next we come to examine the Arbitrements themſelves, and to ſee what things are chiefly to be regarded in them.</p>
+               <p>In the form of every Arbitrement ſix things are ſpecially to be re<g ref="char:EOLhyphen"/>garded,
+<note place="margin">Six things to be regarded in every Arbitre<g ref="char:EOLhyphen"/>ment.</note>
+               </p>
+               <p n="1">1. That it be made according to the very ſubmiſſion touching,
+<pb n="41" facs="tcp:44487:27"/>the things ſubmitted, or neceſſa<g ref="char:EOLhyphen"/>rily depending thereupon, and every other circumſtance, as afore<g ref="char:EOLhyphen"/>ſaid.</p>
+               <p n="2">2. That it ought to be cer<g ref="char:EOLhyphen"/>tain.</p>
+               <p n="3">3. That it ought to be equal, and appoint either Party to give or do unto the other ſomething beneficial in the appearance at the leaſt.</p>
+               <p n="4">4. That the performance there<g ref="char:EOLhyphen"/>of be poſſible and lawful, and within the power of the Par<g ref="char:EOLhyphen"/>ties.</p>
+               <p n="5">5. That there be a means how either Party may by Law attain unto that which is thereby award<g ref="char:EOLhyphen"/>ed unto him.</p>
+               <p n="6">6. That it be a final end of the Controverſies ſubmitted: And if it fail in any of theſe points, then it is ſaid the whole Arbitre<g ref="char:EOLhyphen"/>ment ſhall be void.</p>
+               <p>Firſt, That it be made accord<g ref="char:EOLhyphen"/>ing to the ſubmiſſion.</p>
+               <p>An Arbitrement which is made of a matter not contained in the ſubmiſſion is void, as followeth,
+<note place="margin">7 H. 6.40. b. 19 H. 6.36. b. 9 E. 4.44. a. 19 E. 4.1. a. 7, 8 El. 4.4 a.</note>
+               </p>
+               <pb n="42" facs="tcp:44487:28"/>
+               <p>It may be void as to the ſub<g ref="char:EOLhyphen"/>miſſion in three reſpects,
+<note place="margin">Void in three reſpects.</note>
+               </p>
+               <p n="1">1. Of the Perſons ſubmitting <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2. Of the things or matter ſubmitted.</p>
+               <p n="3">3. Of the circumſtances of the ſubmiſſion.</p>
+               <p>Firſt,
+<note place="margin">As to do an act to a Stran<g ref="char:EOLhyphen"/>ger. 17 E. 4.23. 19 E. 4.1. b. 5 H. 7.22. b.</note> As to the Perſons.</p>
+               <p>If the Arbitrators award tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one of the Parties ſhall do an act to a Stranger, as make a Feof<g ref="char:EOLhyphen"/>ment or the like, ſuch Arbitremen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is ſaid to be void, 8 <hi>E.</hi> 4.1.9<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 22 <hi>H.</hi> 6.46. <hi>b.</hi>
+               </p>
+               <p>But ſee after Chapter 13. where 'tis ſaid otherwiſe.</p>
+               <p>So if it Award a thing to be done by a Stranger,
+<note place="margin">Act to be done by a Stranger.</note> it is alſo void as to the Stranger, <hi>Mich.</hi> 28. and 29 <hi>El. Moor</hi> and <hi>Bedel</hi>'s Caſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> See the General Rules after.</p>
+               <p>If the Arbitrement be that the Parties ſhall ſtand to the Award of the Stranger,
+<note place="margin">To ſtand to the Award of a Stranger to be made.</note> it is void, for power cannot be aſſigned. 47 <hi>E.</hi> 3.21. <hi>a.</hi> 8 <hi>E.</hi> 4.10, 11. <hi>a.</hi> 19. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Coke, Samons</hi> Caſe.</p>
+               <p>But if a Stranger had made
+<pb n="43" facs="tcp:44487:28"/>an Arbitrement before between the ſaid Parties,
+<note place="margin">To ſtand to Award of Stranger for<g ref="char:EOLhyphen"/>merly made.</note> an Award to ſtand to ſuch an Arbitrement of the Stranger, its ſaid is good. 39 <hi>H.</hi> 6.10.</p>
+               <p>And this may be, becauſe the former Arbitrement is a thing al<g ref="char:EOLhyphen"/>ready done and certain.</p>
+               <p>If the Arbitrement be,
+<note place="margin">Award ſup<g ref="char:EOLhyphen"/>poſed to be formerly made.</note> That the Parties ſhall perform the A<g ref="char:EOLhyphen"/>ward of another formerly made between the ſaid Parties; whereas in truth there is no ſuch Award, yet the Arbitrement is good <hi>(prima facie)</hi> at firſt ſight, until it be known that there be no ſuch Award, 39 <hi>H.</hi> 6.12. <hi>a.</hi>
+               </p>
+               <p>If an Arbitrment be that an act limited by the Award ſhall be done by the advice and counſel of another,
+<note place="margin">Act to be done by advice of Counſel.</note> ſuch an Award hath been thought to be good, but by others ill, becauſe not final, and incertain whether the Counſel will adviſe.</p>
+               <p>But if the act be to be done by the advice of the Arbitrator himſelf,
+<note place="margin">By advice of the Arbitra<g ref="char:EOLhyphen"/>tor.</note> this is to make two A<g ref="char:EOLhyphen"/>wards, and ſo void, 8 <hi>E.</hi> 4.11. <hi>a.</hi> 14 <hi>E.</hi> 4.1. 18 <hi>E.</hi> 4.22, 23. 19 <hi>E.</hi> 4.1. <hi>a.</hi>
+               </p>
+               <pb n="44" facs="tcp:44487:29"/>
+               <p>See after <hi>Chap.</hi> 13. Concerning Payment in the Houſe of a Stran<g ref="char:EOLhyphen"/>ger: Concerning Payment at the Houſe of a Stranger: Concern<g ref="char:EOLhyphen"/>ing Payment at or in the Houſe of a Stranger.</p>
+               <p n="2">2dly. As to the things.</p>
+               <p>If one be choſen to make an Award upon one thing,
+<note place="margin">Submiſſion of one thing. Award of an<g ref="char:EOLhyphen"/>other.</note> and he makes it upon another, the Ar<g ref="char:EOLhyphen"/>bitrement is void: As if the Sub<g ref="char:EOLhyphen"/>miſſion be of all things in vari<g ref="char:EOLhyphen"/>ance betwixt the Parties; and the Award is of things not in vari<g ref="char:EOLhyphen"/>ance, <hi>Pl. Com.</hi> 396. <hi>a.</hi>
+               </p>
+               <p>So if the Submiſſion be of the Right and Intereſt of Land,
+<note place="margin">Submiſſion concerning Title; Award concerning profits only. Submiſſion of the Manor of <hi>D.</hi> Award of Manor of <hi>S.</hi> Submiſſion of all Cauſes till that time; Releaſe after of all Cauſes to that time.</note> and the Award is concerning the Pro<g ref="char:EOLhyphen"/>fits only of the Land, <hi>Dyer f.</hi> 242.</p>
+               <p>So if the Submiſſion be of the Manor of <hi>D.</hi> and the Award is of the Manor of <hi>S.</hi>
+               </p>
+               <p>So if the Submiſſion be of all Canſes till that time, and the A<g ref="char:EOLhyphen"/>ward is of a Releaſe of all Cauſes to the time of the Award, eſpe<g ref="char:EOLhyphen"/>cially if any new Cauſes be ſhewn.</p>
+               <pb n="45" facs="tcp:44487:29"/>
+               <p>But if the Award be made of and concerning the Premiſſes,
+<note place="margin">8 Co. fol. 98.</note> and that ſuch a day to come, the one party ſhall pay the other 10 <hi>l.</hi> and that the party ſhall make general Releaſes; <label type="milestone">
+                     <seg type="milestoneunit">Nota. </seg>
+                  </label> this Releaſe ſhall be ſuppoſed only of the Cau<g ref="char:EOLhyphen"/>ſes ſubmitted.</p>
+               <p>But if the Submiſſion be of a Thing,
+<note place="margin">Award of a thing incident or acceſſory. 8 H. 6.18. b. 19 E. 4. a. 26 E. 4. 9 H. 7.15, 16.</note> the Award may be made of a thing incident or acceſſory, as if it be of Title and Poſſeſſion of Land, the Award may be made alſo of the Evidences and Char<g ref="char:EOLhyphen"/>ters concerning the Land, <hi>Mich.</hi> 9 <hi>Jac. Tiderby</hi> and <hi>Tiderby.</hi>
+               </p>
+               <p>Note alſo that it is ſaid,
+<note place="margin">Submiſſion of things perſo<g ref="char:EOLhyphen"/>nal, Award of things real.</note> That if the Submiſſion is of things per<g ref="char:EOLhyphen"/>ſonal, the Arbitrators may award, That one of the Parties ſhall do an act which is of a thing real in ſatisfaction of a perſonal Wrong. Alſo</p>
+               <p>If the Submiſſion be of a thing real,
+<note place="margin">Submiſſion of things real, Award of per<g ref="char:EOLhyphen"/>ſonal.</note> the Arbitrator may award Satisfaction to be made of a thing perſonal, 9 <hi>E.</hi> 4.44.</p>
+               <div type="section">
+                  <pb n="46" facs="tcp:44487:30"/>
+                  <head>General Rules.</head>
+                  <p>Where an Award is made for more than is ſubmitted,
+<note place="margin">The Award for more than is ſubmitted.</note> it is good for that part which is ſubmitted, and void for the reſidue.</p>
+                  <p>So where the Award is,
+<note place="margin">Acts to be done by a Stranger.</note> That the Parties ſhall do ſuch Acts, and a Stranger ſuch Acts, the Award may be good as to the Parties tho' void as to the Stranger, <hi>Mich.</hi> 29 <hi>Eliz. More</hi> and <hi>Bedel.</hi> 14 <hi>H.</hi> 8. <hi>Lee</hi>'s Caſe.</p>
+                  <p>And in ſome Caſes where the Award is of leſs things than were ſubmitted it will be void,
+<note place="margin">Award of leſs things then ſubmitted.</note> as where two or three things are put in Ar<g ref="char:EOLhyphen"/>bitrement joyntly, and an Award is made of part and not of the whole, 39 <hi>H.</hi> 6.9.</p>
+                  <p>But if the Submiſſion be of all Actions real and perſonal,
+<note place="margin">Submiſſion of Actions real and perſonal, Award only of perſonal.</note> and an Award is made of all Actions per<g ref="char:EOLhyphen"/>ſonal only, this hath been adjudged to be good, 19 <hi>H.</hi> 6.</p>
+                  <p>And it hath alſo been adjudged that though there are many mat<g ref="char:EOLhyphen"/>ters in Controverſie,
+<note place="margin">Arbitrator may make an Award of one thing only, if he have no<g ref="char:EOLhyphen"/>tice of no more.</note> yet if one only be ſhewn to the Arbitrator, he may make an Award of this, for the Arbitrator is a Stranger to the particulars, and the Parties,
+<pb n="47" facs="tcp:44487:30"/>who are Privy, ought to ſhew the Cauſes of their Controverſie to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>im, or otherwiſe moſt Arbitre<g ref="char:EOLhyphen"/>ments might be avoided by the Parties concealment, 8 <hi>Co. f.</hi> 98.</p>
+                  <p>Where a Submiſſion is without Deed,
+<note place="margin">Submiſſion without Deed and Award only of part.</note> an Award may be made of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>art of the things only, and good, ſo it be with Deed, and the Sub<g ref="char:EOLhyphen"/>miſſion either general or ſpecial, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd not conditional.</p>
+                  <p>But where the Submiſſion is ei<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her general or ſpecial by Deed conditional, with the Words,
+<note place="margin">Submiſſion by Deed condi<g ref="char:EOLhyphen"/>tional.</note> 
+                     <hi>Pro<g ref="char:EOLhyphen"/>vided that,</hi> or, <hi>So as the ſaid Award concerning the Premiſſes be made in Writing,</hi> &amp;c. <hi>and delivered by ſuch a time,</hi> &amp;c. In ſuch Caſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Award muſt be made of all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Matters ſubmitted, 8 <hi>Co. f.</hi> 98.
+<note place="margin">Award muſt be of all Mat<g ref="char:EOLhyphen"/>ters.</note> 
+                     <hi>Dyer</hi> 216, 242.</p>
+                  <p>And note,
+<note place="margin">Pleading an Award upon a general Sub<g ref="char:EOLhyphen"/>miſſion con<g ref="char:EOLhyphen"/>ditional. 8 Co. 98.</note> That where a Man <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n pleading an Award made upon a general Submiſſion conditional, ſays the ſame was made of and concerning the Premiſſes, and ſhews only one Matter (among many) to be awarded, this ſhall be good and intended an Award of all Cauſes ſubmitted, until the con<g ref="char:EOLhyphen"/>trary
+<pb n="48" facs="tcp:44487:31"/>be ſhewn, and he is not ob<g ref="char:EOLhyphen"/>liged to aver that is all.</p>
+                  <p>But it is otherwiſe in Pleading an Award made upon a ſpecial Conditional Submiſſion,
+<note place="margin">Pleading an Award upon Special Sub<g ref="char:EOLhyphen"/>miſſion condi<g ref="char:EOLhyphen"/>tional.</note> for there the Award muſt be expreſly al<g ref="char:EOLhyphen"/>ledged to be made of all things or otherwiſe it is naught, becauſe in a ſpecial Submiſſion conditio<g ref="char:EOLhyphen"/>nal the Cauſes are apparently ſet forth.</p>
+                  <p>So upon the general Submiſſion Conditional,
+<note place="margin">See Dyer 216.</note> when other Cauſes are ſhewn than were pleaded, the Award will be void, becauſe that it was Conditional.</p>
+                  <p n="3">3ly. Circumſtances.</p>
+                  <p>An Award may be void in re<g ref="char:EOLhyphen"/>ſpect of the Circumſtances of the Submiſſion, as where the Submiſ<g ref="char:EOLhyphen"/>ſion is,
+<note place="margin">Delivery un<g ref="char:EOLhyphen"/>der Hand and Seal.</note> That the Award be de<g ref="char:EOLhyphen"/>livered in Writing under their Hands and Seals; and the party pleads a Delivery, but ſays no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> under their Hands and Seals, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſhall be ſuppoſed to be no Arbi<g ref="char:EOLhyphen"/>trement according to the Submiſ<g ref="char:EOLhyphen"/>ſion, and therefore no Cauſe o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Action.</p>
+                  <pb n="49" facs="tcp:44487:31"/>
+                  <p>For upon theſe Submiſſions con<g ref="char:EOLhyphen"/>ditional, as to writing,
+<note place="margin">All Circum<g ref="char:EOLhyphen"/>ſtances to be obſerved.</note> ſealing and delivery, <hi>&amp;c.</hi> all the Circumſtan<g ref="char:EOLhyphen"/>ces muſt be obſerved, and awarded of, at or before the day appointed, otherwiſe all is void, <hi>Dyer</hi> 243. 21 <hi>H.</hi> 8.42. 8 <hi>E.</hi> 4.11. 8 H. 6.18. 4 <hi>Co.</hi> 103.</p>
+               </div>
+               <div type="section">
+                  <head>General Rules.</head>
+                  <p>Again obſerve,
+<note place="margin">An Award of all things a<g ref="char:EOLhyphen"/>warded out of the Submiſſion</note> That where an Award is of one ſingle Matter on<g ref="char:EOLhyphen"/>ly, or of many, and all out of the Submiſſion, ſuch Award is totally void.</p>
+                  <p>So where the Award is of one ſingle Matter only, or of many,
+<note place="margin">Of all things awarded with<g ref="char:EOLhyphen"/>in the Submiſ<g ref="char:EOLhyphen"/>ſion, but not agreeing, <hi>&amp;c.</hi>
+                     </note> and all within the Submiſſion; yet if it be not of all Matters ſubmitted, or not agreeing in Cir<g ref="char:EOLhyphen"/>cumſtances: Where the Submiſ<g ref="char:EOLhyphen"/>ſion is by Specialty conditional, in ſuch Caſe alſo the Award will be totally void.</p>
+                  <p>But where an Award,
+<note place="margin">Award of things part within the Submiſſion, and part out.</note> is of one thing only, or of ſeveral things, part within the Submiſſion and part out, there the Award is void only as to that which is out, and good for the Remainder.</p>
+                  <pb n="50" facs="tcp:44487:32"/>
+                  <p>Yet though it may be void in part and good in part,
+<note place="margin">Award void on one part is void on both.</note> it cannot be totally void only as to one of the Parties and good againſt the other, for if it be void againſt one it is void againſt both: An Arbi<g ref="char:EOLhyphen"/>trement ought to be of both ſides, and equally binding, 22 <hi>H.</hi> 6.46. 36 <hi>H.</hi> 6.1. 17 <hi>E.</hi> 4.5. 18 <hi>E.</hi> 4.1. 21 <hi>E.</hi> 4.75. 17 <hi>H.</hi> 7.43. <hi>&amp;</hi> 45. 5 <hi>Co.</hi> 77. 8 <hi>Co.</hi> 98. 10 <hi>Co.</hi> 31.</p>
+                  <p>And the Law is held the ſame as to theſe things where the Parties are tyed by Promiſe only.
+<note place="margin">Submiſſion by Promiſe.</note>
+                  </p>
+                  <p>Now where an Award is to<g ref="char:EOLhyphen"/>tally void,
+<note place="margin">Upon an A<g ref="char:EOLhyphen"/>ward totally void, Bond not forfeited.</note> there a Bond can ne<g ref="char:EOLhyphen"/>ver be forfeited for the Non-per<g ref="char:EOLhyphen"/>formance of it; for ſuch an A<g ref="char:EOLhyphen"/>ward is as if no Award, and the Law requires not the Obſervation of that which is void, 10 <hi>Co.</hi> 31. <hi>Keil.</hi> 175.</p>
+                  <p>Again,
+<note place="margin">Upon an A<g ref="char:EOLhyphen"/>ward void in part only, Bond forfeit<g ref="char:EOLhyphen"/>ed.</note> where the Award is void in part only, there the Bond may be forfeited for not obſerving the Award, eſpecially for that which is contained in the Submiſſion though not for that which is out and therefore if the Breach be a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſigned in that part which is void
+<pb n="51" facs="tcp:44487:32"/>the Action will not lie. But a Breach may be aſſigned for that which is within the Submiſſion, and the Bond will be forfeited for the Non-performance of it, 18 <hi>E.</hi> 4.22,
+<note place="margin">17 H. 7.42, 45.</note> 23.41, 42 <hi>Eliz. in C. B. Mich.</hi> 7 <hi>Jac. in B. R. Lawrence</hi> verſus <hi>Carr,</hi> 10 <hi>Co.</hi> 131.</p>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. <hi>That an Award ought to be certain.</hi>
+               </head>
+               <p>IF the Arbitrators award that one of the Parties ſhall enter into a Bond to the other,
+<note place="margin">Bond awarded and no Sum mentioned.</note> and doth not award in what time, ſuch Award is void for the Uncertain<g ref="char:EOLhyphen"/>ty, 5 <hi>Co,</hi> 77, 78.</p>
+               <p>And where an Award is of things within the Submiſſion,
+<note place="margin">Award void in part, void in the whole.</note> and is uncertain in any part that con<g ref="char:EOLhyphen"/>cerns a Party to the Submiſſion, it is void in the whole, 8 <hi>E.</hi> 4.1. <hi>Hill.</hi> 15 <hi>Car. in B. R.</hi>
+               </p>
+               <p>Yet a ſmall Variation is not material;
+<note place="margin">A ſmall Vari<g ref="char:EOLhyphen"/>ation not minded.</note> as if the Award be that one of the Parties ſhall diſcharge the other of a Bond of the Penalty
+<pb n="52" facs="tcp:44487:33"/>of 100 <hi>l.</hi> or thereabouts, this was held a ſufficient Certainty, <hi>Paſch.</hi> 15 <hi>Car. in B. R.</hi>
+               </p>
+               <p>Alſo an Award that is ſeeming<g ref="char:EOLhyphen"/>ly uncertain,
+<note place="margin">Award good if it may be reduced to a certainty.</note> and yet may be re<g ref="char:EOLhyphen"/>duced to a Certainty is good e<g ref="char:EOLhyphen"/>nough, as that the Defendant ſhall pay ſo much during the continu<g ref="char:EOLhyphen"/>ance of ſuch a Leaſe, naming it, <hi>&amp;c.</hi> Here the payment of the Mony is referred to the Conti<g ref="char:EOLhyphen"/>nuance of the Leaſe which is cer<g ref="char:EOLhyphen"/>tain, and therefore the Award good, <hi>Paſch.</hi> 5 <hi>Jac. in B. R. Girling</hi> verſus <hi>Goſnold, Hob.</hi> 68. <hi>Dyer</hi> 242.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. <hi>That an Award muſt be equal, and ap<g ref="char:EOLhyphen"/>point either Party ſomething bene<g ref="char:EOLhyphen"/>ficial.</hi>
+               </head>
+               <p>AN Award ought to be equal,
+<note place="margin">General Rule.</note> that is, mutually ſatisfactory, and appoint either Party to give or do unto the other ſomething beneficial in the appearance at the leaſt.</p>
+               <pb n="53" facs="tcp:44487:33"/>
+               <p>An Arbitrement is no Plea in Treſpaſs,
+<note place="margin">Nothing for amends in Treſpaſs, ill.</note> if nothing be award<g ref="char:EOLhyphen"/>ed to the Plaintiff for amends, 43 <hi>E.</hi> 3.28.</p>
+               <p>In Treſpaſs of Goods taken, it i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot good Pleading an Award, that the Defendant ſhould retain part of the Goods and the Plain<g ref="char:EOLhyphen"/>tiff have the reſt.</p>
+               <p>So in Debt,
+<note place="margin">Half to the one, half to the other, ill.</note> to plead an Award that the Plaintiff ſhould have one Moiety, and the Defendant the other, or ſhould pay part and keep part, this is no Plea, 17 <hi>E.</hi> 3.6. 45 <hi>E.</hi> 3.16. 10 <hi>H.</hi> 4. <hi>Fitz. Arbit.</hi> 19. and therefore ſuch an Award is void, and with good reaſon. For</p>
+               <p>In Treſpaſs for taking away of Goods,
+<note place="margin">Goods award<g ref="char:EOLhyphen"/>ed to be re<g ref="char:EOLhyphen"/>delivered, ill.</note> the Defendant pleaded an Award, that becauſe the Defen<g ref="char:EOLhyphen"/>dant had taken away the Plain<g ref="char:EOLhyphen"/>tiffs Goods, he ſhould therefore carry and redeliver them to the Plaintiff, which he had done, this was held naught; for redelivery of the Plaintiffs own Goods could be no ſatisfaction, much leſs the redelivery of part of them, 45 <hi>E.</hi> 3.16. 2 <hi>H.</hi> 5.2. <hi>a.</hi> 12 <hi>H.</hi> 7.14, 15.</p>
+               <pb n="54" facs="tcp:44487:34"/>
+               <p>But if upon the Delivery of Goods,
+<note place="margin">If benefit to him for whom delivered, good.</note> he for whom they are to be delivered may have any be<g ref="char:EOLhyphen"/>nefit by ſuch Delivery in ſatis<g ref="char:EOLhyphen"/>faction of the Wrong, then the Arbitrement is good, 2 <hi>H.</hi> 5.2 <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 14 <hi>H.</hi> 4.14. <hi>b.</hi> 12 <hi>H.</hi> 7.15. <hi>a.</hi> As if the Defendant had been awarded to have carried the Goods to ſuch a place for the Plaintiffs benefit.</p>
+               <p>If two ſubmit themſelves to Ar<g ref="char:EOLhyphen"/>bitrement of all Treſpaſſes,
+<note place="margin">Award on one fide only.</note> 
+                  <hi>&amp;c.</hi> between them, and it is awarded that the one ſhall make amends to the other, and nothing is a<g ref="char:EOLhyphen"/>warded for the others Benefit, this Award is void being but on one ſide, 7 <hi>H.</hi> 6.40. 39 <hi>H.</hi> 6.9. 22 <hi>E.</hi> 4.25.</p>
+               <p>So if it were that the one only ſhall go quit againſt the other,
+<note place="margin">One quit a<g ref="char:EOLhyphen"/>gainſt the o<g ref="char:EOLhyphen"/>ther.</note> 19 <hi>H.</hi> 6.36. 20 <hi>H.</hi> 6.18, 19. <hi>Hob.</hi> 68. For ſuch Arbitrements are only on one ſide.</p>
+               <p>But where there is an Acquit<g ref="char:EOLhyphen"/>tal or expreſs Satisfaction on both ſides,
+<note place="margin">
+                     <hi>Nota.</hi> General Rule.</note> or on one ſide only with an implied diſcharge on the other, the Award may in ſuch caſe be good.</p>
+               <pb n="55" facs="tcp:44487:34"/>
+               <p>An Award that the one ſhall give to the other a Quart of Wine,
+<note place="margin">A ſmall re<g ref="char:EOLhyphen"/>compence and good.</note> or ſome ſuch ſmall Recompence in ſatisfaction of the Wrong, is good.</p>
+               <p>So,
+<note place="margin">A Peny in ſatisfaction, good.</note> for that the one has done more Treſpaſs to the other than the other to him, he ſhall pay the other a Peny in ſatisfaction, and that he ſhall be quit againſt him, 19 <hi>H.</hi> 6.37. 20 <hi>H.</hi> 6.18, 19.45 <hi>E.</hi> 3.16. <hi>b.</hi> 9 <hi>E.</hi> 4.44. <hi>a.</hi>
+               </p>
+               <p>An Award for that the Wrongs done by the Parties each to other are equal,
+<note place="margin">Each party quit againſt the other.</note> they ſhall therefore be quit each againſt the other is ſaid to be good, 20 <hi>H.</hi> 6.19. 21 <hi>H.</hi> 6.9. <hi>Dyer</hi> 356. 22 <hi>H.</hi> 6.39. 19 <hi>H.</hi> 7.37.</p>
+               <p>Yet 'tis ſaid to be otherwiſe, if the Submiſſion was by Word of Mouth, 9 <hi>E.</hi> 4.8. <hi>Quaere.</hi>
+               </p>
+               <p>Where divers of the one Party and the other ſubmit themſelves to Award,
+<note place="margin">One of each party quit againſt the other.</note> and the Arbitrement is, That one of one of the Par<g ref="char:EOLhyphen"/>ties ſhall pay to one other of the other Party ſo much, without ſay<g ref="char:EOLhyphen"/>ing any thing of the others, it is ſaid to be a good Award, for that the others, it may be, have no
+<pb n="56" facs="tcp:44487:35"/>Cauſe to have any thing, 22 <hi>E.</hi> 4.25. <hi>b.</hi>
+               </p>
+               <p>If the Arbitrement be that one of the Parties ſhall pay a greater Sum in value than the Wrong which he has done requires,
+<note place="margin">Damage of things uncer<g ref="char:EOLhyphen"/>tain lies in the direction of the Arbitra<g ref="char:EOLhyphen"/>tors.</note> as 10 <hi>l.</hi> where but 5 <hi>s.</hi> damage, and the like; yet the Award is ſaid to be good, for that it lies in the diſcretion of the Arbitrators, who are Judges, eſpecially of things uncertain, as Treſpaſs, and the like; but of things certain, as Debt, <hi>&amp;c.</hi> (as before) it may be other<g ref="char:EOLhyphen"/>wiſe, 8 <hi>E.</hi> 4.121.</p>
+               <p>Again as to an implied Diſ<g ref="char:EOLhyphen"/>charge,
+<note place="margin">
+                     <hi>Nota.</hi> Implied Diſ<g ref="char:EOLhyphen"/>charge good.</note>
+               </p>
+               <p>If it be awarded, That the De<g ref="char:EOLhyphen"/>fendant ſhall pay 10 <hi>l.</hi> for a Treſ<g ref="char:EOLhyphen"/>paſs, it is good, 22 <hi>E.</hi> 4.25.</p>
+               <p>So that the Defendant ſhall pay a Peny to the Plaintiff in ſatiſ<g ref="char:EOLhyphen"/>faction of all manner of Actions, if the Defendant ſhew that he hath paid it, it is a good Bar, 22 <hi>H.</hi> 6.39. Becauſe theſe imply a Diſcharge to the Defendant.</p>
+               <p>But if the Award be that he that is bound in a Bond ſhall pay the Debt,
+<note place="margin">No Diſcharge on Bond with<g ref="char:EOLhyphen"/>out Acquit<g ref="char:EOLhyphen"/>tance.</note> this does not imply a
+<pb n="57" facs="tcp:44487:35"/>Diſcharge; for payment in ſuch Caſe without Acquittance is no Diſcharge to him, <hi>Hob.</hi> 68. and therefore the Award void, unleſs there be proviſion for a Diſcharge, See 8 <hi>Co.</hi> 98.</p>
+               <p>An Award that in ſatisfaction of the Wrong the Parties ſhall intermarry, is no good Award,
+<note place="margin">Intermarriage, 9 E. 4.44.</note> for it is no ſatisfaction.</p>
+               <p>That one of the Parties that is in Arrear in Accompt,
+<note place="margin">The Parties to account.</note> ſhall ac<g ref="char:EOLhyphen"/>count with the other, is held no Satisfaction, 30 <hi>H.</hi> 6. <hi>Fitz. Abr.</hi> 27.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. <hi>That the Performance of an Award muſt be poſſible, lawful, and with<g ref="char:EOLhyphen"/>in the Parties Power, without the Aid of others.</hi>
+               </head>
+               <p>IF an Award be to do a thing impoſſible,
+<note place="margin">Award of a thing impoſ<g ref="char:EOLhyphen"/>ſible. 8 E. 4.6.10. &amp; 12. 9 H. 6.19. 22 H. 6.46. 21 E. 4.38, 39, 48.</note> as to turn the River of <hi>Thames</hi> to run over the Cellar of <hi>Weſtminſter</hi> within a day, or to pay a Sum of Mony at a day al<g ref="char:EOLhyphen"/>ready paſt, or to releaſe all Right
+<pb n="58" facs="tcp:44487:36"/>in ſuch a Manor, where in truth there is no ſuch, and the like; ſuch an Award is void, and the Bond not forfeited.</p>
+               <p>But if the Thing ſeem feaſable and poſſible though very hard and difficult,
+<note place="margin">General Rule. Award of a thing poſſible muſt be per<g ref="char:EOLhyphen"/>formed.</note> yet the Award may be good, and the Party ought to per<g ref="char:EOLhyphen"/>form it. As,</p>
+               <p>That I ſhall at ſuch a time,
+<note place="margin">Example.</note> go to ſuch a place, and bring from thence, ſuch a thing as is not there; in this caſe I ought to buy the thing and convey it to the place, and bring it from thence, <hi>&amp;c.</hi> 9 <hi>H.</hi> 7.15.</p>
+               <p>If the Award be that I ſhall pay 1000 <hi>l.</hi>
+                  <note place="margin">Example.</note> within an hour, <hi>&amp;c.</hi> I am bound to do it, 8 <hi>E.</hi> 4.1. though perhaps I have not 10 <hi>l.</hi> 19 <hi>E.</hi> 4.4. and ſo of the like.</p>
+               <p>Again,
+<note place="margin">Award to do a thing expreſly againſt Law.</note> an Award ought to be lawful, therefore that which is unlawful is void. Many things in general acceptation are againſt Law becauſe they do not agree with Law, but in this place it is meant of things which are ex<g ref="char:EOLhyphen"/>preſly forbidden by the Law, as if it be awarded that the Defendant
+<pb n="59" facs="tcp:44487:36"/>ſhall kill, rob, ſteal, forge a Deed, or the like, <hi>Coke</hi> on <hi>Lit.</hi> 206. <hi>b.</hi> 42 <hi>E.</hi> 3.6. 2 <hi>H.</hi> 4.9. 19 <hi>H.</hi> 6.55.</p>
+               <p>Again,
+<note place="margin">General Rule.</note> the performance ought to be within the Parties power, without the Aid of others.</p>
+               <p>If the Award be that I ſhall make a Stranger pay 20 <hi>l.</hi>
+                  <note place="margin">Award to do a thing out of my power.</note> to the Plaintiff, it is void, for I cannot force him to do it, 8 <hi>E.</hi> 4. <hi>f.</hi> 2. 22 <hi>H.</hi> 6.46.</p>
+               <p>So if it be that I ſhall pay 40 <hi>l.</hi>
+                  <note place="margin">A ward to do a thing at the Will of a Stranger.</note> thus, 10 in hand, and three ſeve<g ref="char:EOLhyphen"/>ral perſons to be bound every one for 10 <hi>l.</hi> apiece; this hath been held void, 17 <hi>E.</hi> 4. <hi>f.</hi> 5. <hi>b.</hi> 19 <hi>E.</hi> 4. <hi>f.</hi> 1. For this lies at the Will of a Stranger, whether he will be bound or not.</p>
+               <p>But where I may do the things awarded my ſelf,
+<note place="margin">General Rule.</note> or force it to be done, the Award is good, 5 <hi>H.</hi> 7.22. 21 <hi>E.</hi> 4. <hi>f.</hi> 40.</p>
+               <p>If the Award be that one of the Parties ſhall pay a Sum to the other,
+<note place="margin">What ſhall be a good Diſ<g ref="char:EOLhyphen"/>charge.</note> and that the other in con<g ref="char:EOLhyphen"/>ſideration ſhall diſcharge him of a Bond, in which they two were bound to another perſon:</p>
+               <pb n="60" facs="tcp:44487:37"/>
+               <p>In this Caſe it was held that the thing was feaſible by the Party himſelf;
+<note place="margin">Performance of the Award by Equity. Paſch. 15 Car. in B. R.</note> for if the day of pay<g ref="char:EOLhyphen"/>ment was not come, the payment of the Mony at the day would be a good Diſcharge of the Bond, and ſo a good Acquittal of the other Party; and if the day of payment was paſt, it was held he might pay the Mony, and force the Obligee in Chancery to deliver up the Bond though forfeited, or elſe the Party might ſuffer an Acti<g ref="char:EOLhyphen"/>on to be brought againſt him upon the Bond, and then diſcharge and pay it.</p>
+               <p>It was alſo held that where any are ſeized,
+<note place="margin">Where the thing may be done by Com<g ref="char:EOLhyphen"/>pulſion.</note> 
+                  <hi>&amp;c.</hi> to my uſe, and that I have an Intereſt and Power to compel them to do the thing a<g ref="char:EOLhyphen"/>warded upon my part, that in ſuch Caſe the Award is good, 17 <hi>E.</hi> 4.5. and I ought to compel them.</p>
+               <p>And this is a general Rule,
+<note place="margin">General Rule.</note> That where I may do the thing awarded my ſelf without the Aid of another, or it lies in my power to enforce the doing thereof by others; in ſuch Caſe the Award is good, and I am obliged to perform it.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="61" facs="tcp:44487:37"/>
+               <head>CHAP. X. <hi>That there be a means by Law to attain unto the thing awarded.</hi>
+               </head>
+               <p>THIS is chiefly meant where the Submiſſion is without Spe<g ref="char:EOLhyphen"/>cialty, As,</p>
+               <p>If in Treſpaſs an Award be pleaded,
+<note place="margin">Award to pay and releaſe, and that after the other ſhall releaſe. 22 H. 6.12, 18. 19 H. 6.37, 38.</note> that one Party ſhould pay a Sum of Mony, and releaſe to the other all Actions of Treſ<g ref="char:EOLhyphen"/>paſs, <hi>&amp;c.</hi> and that after the other ſhould releaſe to him, this is not good, becauſe if the one pays the Mony and releaſes, he cannot af<g ref="char:EOLhyphen"/>ter force the other to releaſe to him.</p>
+               <p>Yet it may be a good Plea if the Party pleading ſhews that he has performed his part, as appears after.</p>
+               <p>If the Defendant in an Action of Treſpaſs pleads an Award,
+<note place="margin">Pleading A<g ref="char:EOLhyphen"/>ward to pay Mony, and the day not come.</note> that he ſhould be bound to the other by a day not yet come, this will be no Bar, for if he ſhould, the other would be without Re<g ref="char:EOLhyphen"/>medy
+<pb n="62" facs="tcp:44487:38"/>to compel him to make the Bond. 5 <hi>E.</hi> 4.7. 45 <hi>E.</hi> 3.16.</p>
+               <p>But if the ſubmiſſion were by Bond,
+<note place="margin">Bond forfeit<g ref="char:EOLhyphen"/>ed.</note> though ſuch a Plea as above will be no Bar to the Action, becauſe there is no means to enforce the making of a Bond, Releaſe, or other Collateral
+<note n="*" place="margin">Note any other thing beſides pay<g ref="char:EOLhyphen"/>ment of Mo<g ref="char:EOLhyphen"/>ny, is called a Collateral matter.</note> Matter, yet if the party do not make it, he will thereby forfeit the Penalty of his Bond.</p>
+               <p>Where the ſubmiſſion is without Bond,
+<note place="margin">General Rules. 28 H. 6.12. 2 H. 4.4. 5 E. 4.7.</note> if the Award be for pay<g ref="char:EOLhyphen"/>ment of Mony at a day to come, it is good, becauſe an Action of Debt will lye for the Mony up<g ref="char:EOLhyphen"/>on ſuch Award, if it be not paid, the Party, if he pleaſe, may re<g ref="char:EOLhyphen"/>ſort to his force Action.</p>
+               <p>Alſo if an Award be to do a Collateral thing, as make a Re<g ref="char:EOLhyphen"/>leaſe, <hi>&amp;c.</hi> for which there is no remedy, yet if it appear to be executed, the Award will be held a good Plea, 19 <hi>H.</hi> 6.37, 38.</p>
+               <p>And if the Collateral thing ap<g ref="char:EOLhyphen"/>pear not to be executed, yet if the ſubmiſſion be by Bond, the Bond will be forfeited for non<g ref="char:EOLhyphen"/>performance of the thing awarded, 9 <hi>E.</hi> 4.44. <hi>a.</hi>
+               </p>
+               <div type="section">
+                  <pb n="63" facs="tcp:44487:38"/>
+                  <head>As to pleading an Award in Bar of an Action, in theſe Caſes, obſerve</head>
+                  <p n="1">1. That where an Award is for payment of Mony, for which there is Remedy, and the day of payment not paſt, in ſuch caſe an Award pleaded will be a good Bar to an Action, 20 <hi>H.</hi> 6.18, 19. 2 <hi>H.</hi> 44. 9 <hi>E.</hi> 4.51. 19 <hi>E.</hi> 4.8. 45 <hi>E.</hi> 3.16.</p>
+                  <p n="2">2. Where the day of payment is paſt, it will be no Bar to plead an Award, without pleading of payment by the Party; 20 <hi>H.</hi> 6.12.</p>
+                  <p n="3">3. Where the day of payment is paſt, and though it appear that the Arbitrement is not executed, yet if there be no default in the Defendant, it may be a good Bar to plead an Award, 20 <hi>H.</hi> 6.18. 2 <hi>H.</hi> 4.1.</p>
+                  <p n="4">4. Where an Award is for do<g ref="char:EOLhyphen"/>ing a thing for which the Party hath no remedy (though the day be not come in which the thing ought to be done) in ſuch caſe
+<pb n="64" facs="tcp:44487:39"/>it will be no Bar of an Action to plead the Award, 19 <hi>H.</hi> 6.37. 5 <hi>E.</hi> 4.7. 7 <hi>H.</hi> 4.41.</p>
+               </div>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI. <hi>That an Award muſt be final.</hi>
+               </head>
+               <p>THat it be a final end of the Controverſies ſubmitted.</p>
+               <p>This is to be underſtood with reſpect to what is ſaid before, That though an Award may be good of part of the things only ſubmit<g ref="char:EOLhyphen"/>ed, yet it muſt be final as to that part, or elſe it will be void.</p>
+               <p>As if an Award be,
+<note place="margin">Award that the Parties ſhall be non<g ref="char:EOLhyphen"/>ſuit.</note> That the Parties ſhall be non-ſuit one againſt the other, in Actions depending betwixt them; this Award is void being not final, for after non-ſuits the Parties may begin again, and thus there is no end of the Con<g ref="char:EOLhyphen"/>troverſie, 19 <hi>H.</hi> 6.36, 37. 8 <hi>E.</hi> 4.10.</p>
+               <p>And ſo it is where the Award is of one ſide only, becauſe it does
+<pb n="65" facs="tcp:44487:39"/>not determine the Controverſie between the Parties.</p>
+               <p>And ſo where it is incertain, for ſuch an Award cannot decide the matter in Controverſie, 5 <hi>Co.</hi> 78.</p>
+               <p>And 'tis a general Rule,
+<note place="margin">General Rule.</note> That the Law doth reject all Arbitre<g ref="char:EOLhyphen"/>ments, which leave the matter in Controverſie in ſuſpence or un<g ref="char:EOLhyphen"/>concluded, for it is the proper Office of an Arbitrement to put an end to Controverſie, 8 <hi>E.</hi> 4.12.41, 42 <hi>El. in Com. Banco, Emery</hi> cont. <hi>Emery.</hi>
+               </p>
+               <p>Note, The Arbitrators may ordain in their Award, an Act to be done for the better performance of their Award as to enter in<g ref="char:EOLhyphen"/>to Bond, <hi>&amp;c.</hi> 8 <hi>H.</hi> 6.18. <hi>b.</hi> 19 <hi>H.</hi> 4.1. <hi>a.</hi>
+               </p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="66" facs="tcp:44487:40"/>
+               <head>CHAP. XII. <hi>Concerning an Umpire.</hi>
+               </head>
+               <p>IF the Parties ſubmit themſelves to the Award of certain Per<g ref="char:EOLhyphen"/>ſons,
+<note place="margin">Umpire, how to make his Award of parcel.</note> and if they cannot agree, then to the Ordinance of ano<g ref="char:EOLhyphen"/>ther, as Umpire: If the Arbitra<g ref="char:EOLhyphen"/>tors make their Award of Parcels, The Umpire ſhall not make his Award of the other remaining part.</p>
+               <p>But if the ſubmiſſion be ſuch, That the Umpire ſhall make his Award of the whole or of part, then its ſaid he may make Award of ſuch part with which the Ar<g ref="char:EOLhyphen"/>bitrators have not medled, 39 <hi>H.</hi> 6.10. <hi>a.</hi> 11. <hi>b.</hi>
+               </p>
+               <p>In Debt upon a Bond Conditi<g ref="char:EOLhyphen"/>onal to perform an Award,
+<note place="margin">When the ſame time is limited to the Arbitrators and Umpire.</note> to be made by two, by ſuch a day, and if they cannot agree, then to the Umpirage of <hi>A. B.</hi> ſo he award<g ref="char:EOLhyphen"/>ed by the ſame time; and there ſaid, that where the Arbitrators and Umpire have the ſame time, if
+<pb n="67" facs="tcp:44487:40"/>either make an Award its ſuffici<g ref="char:EOLhyphen"/>ent; but then all agreed, That an abſolute refuſal of the Arbi<g ref="char:EOLhyphen"/>trators ſhould be alledged,
+<note place="margin">The Arbitra<g ref="char:EOLhyphen"/>tors muſt firſt refuſe.</note> as to ſay, That they altogether refuſed, and not to ſay, That they did not, nor could not make the A<g ref="char:EOLhyphen"/>ward, 2 <hi>Keb.</hi> 562.619. <hi>Syderf.</hi> 428. <hi>Mod. Rep.</hi> 15.</p>
+               <p>If the Arbitrators do wholly deſert it, the Umpire may Award;
+<note place="margin">They muſt wholly de<g ref="char:EOLhyphen"/>ſert.</note> for if the Arbitrators deſert only one while, they may take it up within the time, <hi>Syderf.</hi> 455.</p>
+               <p>But where the Arbitrators are left to chuſe the Umpire in the ſame time, and do ſo,
+<note place="margin">Arbitrators chuſe an Um<g ref="char:EOLhyphen"/>pire in the ſame time.</note> they there<g ref="char:EOLhyphen"/>by relinquiſh their power, eſpeci<g ref="char:EOLhyphen"/>ally where the Submiſſion to an Umpire, is upon their diſagree<g ref="char:EOLhyphen"/>ment, otherwiſe an Award by the Umpire within their time is void, 1 <hi>Keble</hi> 6.848. 2 <hi>Keble</hi> 714. <hi>Mod. Rep.</hi> 274.</p>
+               <p>In debt upon a Bond to per<g ref="char:EOLhyphen"/>form an Award of Arbitrators,
+<note place="margin">Time given over to the Umpire.</note> ſo as it be made by the ſecond of <hi>March,</hi> and if not agreed then, to the umpirage of whom <hi>A.</hi> and <hi>B.</hi> elect, ſo as he Award by the fifth
+<pb n="68" facs="tcp:44487:41"/>of <hi>March.</hi> It was objected, That the Umpire was elected but the third of <hi>March,</hi> but the Court ſaid, if he were elected on the fourth, it was ſufficient, 3 <hi>Keble</hi> 387.</p>
+               <p>Note, That the uſual courſe is now by Bond, with a time over for the Umpire, in caſe the Arbitrators make no A<g ref="char:EOLhyphen"/>ward.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII. <hi>Some things of Note concerning Ar<g ref="char:EOLhyphen"/>bitrement, Regiſtred by Mr.</hi> Stiles <hi>in his</hi> Practical Regiſter, <hi>as fol<g ref="char:EOLhyphen"/>loweth.</hi>
+               </head>
+               <p>AN Award that is made,
+<note place="margin">Concerning payment of Mony in the Houſe of a Stranger.</note> That one of the Parties who ſub<g ref="char:EOLhyphen"/>mitted themſelves to the Award, ſhall pay mony in the Houſe of a Stranger, is not good, for this is to Award him to do a thing which will make him a Treſpaſ<g ref="char:EOLhyphen"/>ſer,
+<pb n="69" facs="tcp:44487:41"/>and ſo lyable to an Action, which is unreaſonable, <hi>Mich.</hi> 22 <hi>Car. B. R.</hi>
+               </p>
+               <p>But if the Award be to pay the Mony in the Houſe of one of the Parties that ſubmitted to the A<g ref="char:EOLhyphen"/>ward, ſuch an Award is good,
+<note place="margin">In or at the Houſe of a Stranger.</note> for it implies a Licence from the Party for him to pay it there, <hi>Pract. Regiſt.</hi> 27.</p>
+               <p>Award to pay Mony in or at the Houſe of <hi>J. S.</hi> The Plaintiff ſaith it was not paid at the Houſe, which the Court held to be well enough, and if it were paid in the Houſe, it may be given in Evidence on iſſue, That it was paid at the Houſe, 1 <hi>Keble</hi> 753.16 <hi>Car.</hi> 2. <hi>B. R.</hi>
+               </p>
+               <p>An Award to pay Mony at the Houſe of a Stranger may be good,
+<note place="margin">At the Houſe of a Stranger.</note> for the may come to the Houſe in many caſes and be no Treſpaſſer; but if he cannot come to the Strangers Houſe, without being a Treſpaſſer to him, there ſuch an Award is not thought good, <hi>Pract. Reg.</hi> 27. and by <hi>Keble</hi> 1.13 <hi>Car.</hi> 2. Where pay<g ref="char:EOLhyphen"/>ment
+<pb n="70" facs="tcp:44487:42"/>is to be in the Houſe of a Stranger, he ſhall not be preſumed to be able to perform it, but other<g ref="char:EOLhyphen"/>wiſe where the Payment is to be at the Houſe of a Stranger.</p>
+               <p>A Conditional Award is not good becauſe it is not final to de<g ref="char:EOLhyphen"/>termine the Matters in difference ſubmitted to the Arbitration,
+<note place="margin">Conditional Award. Pract. Reg. p. 27.</note> 
+                  <hi>Mich.</hi> 22 <hi>Car. B. R.</hi>
+               </p>
+               <p>If all the Matters ſubmitted to the Arbitrators be not awarded upon,
+<note place="margin">All the Mat<g ref="char:EOLhyphen"/>ters muſt be awarded on.</note> the Award is not good, <hi>Paſch.</hi> 23 <hi>Car. B. R. Pract. Reg.</hi> 27.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is, when the Submiſſion is by Deed Conditional, See be<g ref="char:EOLhyphen"/>fore <hi>Chap.</hi> 6.</p>
+               <p>An uncertain and doubtful A<g ref="char:EOLhyphen"/>ward is not good,
+<note place="margin">An uncertain Award.</note> becauſe it makes not an end of all the Matters ſub<g ref="char:EOLhyphen"/>mitted unto by both Parties, but leaves them at large, to ſue and trouble each other, as they were before the Award made, <hi>Trin.</hi> 23 <hi>Car. B. R.</hi>
+               </p>
+               <p>An Award may be void in ſome part,
+<note place="margin">Award void in part, and good in part. Pract. Reg. 28.</note> and yet good in another, <hi>viz.</hi> if the Award do make an end of all the Differences ſub<g ref="char:EOLhyphen"/>mitted
+<pb n="71" facs="tcp:44487:42"/>unto the Arbitrators by the Parties, <hi>Trin.</hi> 23 <hi>Car. B. R. Mich.</hi> 24 <hi>Car. B. R.</hi>
+               </p>
+               <p>An Award ought to be final and certain, elſe it is not good, <hi>Mich.</hi>
+                  <note place="margin">Award muſt be final.</note> 23 <hi>Car. B. R. Pract. Reg.</hi> 28.</p>
+               <p>If each Party ſubmitting to the Award hath power by the Award to compel the other Party either by Law or equity to per<g ref="char:EOLhyphen"/>form the Award,
+<note place="margin">Power by A<g ref="char:EOLhyphen"/>ward to com<g ref="char:EOLhyphen"/>pel either by Law or E<g ref="char:EOLhyphen"/>quity.</note> the Award is good enough although the Party be thereby put to his Action, <hi>Mich.</hi> 24 <hi>Car. B. R. Pract. Reg.</hi> 28.</p>
+               <p>An Award,
+<note place="margin">Things to be done to a Stranger.</note> that a thing ſhall be done to a Stranger is a good Award, if it appear that the Par<g ref="char:EOLhyphen"/>ties who ſubmitted to the Award bave benefit by the doing it, <hi>Pract. Reg.</hi> 28. See before <hi>Chap.</hi> 6.</p>
+               <p>If an Award be good in any part of it to all the Parties that did ſubmit to it,
+<note place="margin">Award good in any part to all the Parties.</note> if the Award be broken in that part, an Action will lie for that Breach, <hi>Pract. Reg.</hi> 28.</p>
+               <p>An Arbitrator cannot dele<g ref="char:EOLhyphen"/>gate or transfer the Power given him by the Parties that ſubmitted
+<pb n="72" facs="tcp:44487:43"/>to the Arbitration; for it is con<g ref="char:EOLhyphen"/>trary to the Submiſſion; but an Arbitrator may refer a miniſterial act touching the Arbitration to another, <hi>Pract. Reg.</hi> 28.</p>
+               <p>As that the Parties ſhall enter into Bond (for ſuch a Sum a<g ref="char:EOLhyphen"/>warded) as Counſel ſhall adviſe, 19 <hi>E.</hi> 4.1.</p>
+               <p>Note, It was held a good Award, that an Action ſhould be com<g ref="char:EOLhyphen"/>menced betwixt the Parties by advice of <hi>W.</hi> and <hi>P.</hi> 8 <hi>Ed.</hi> 4.1.10.</p>
+               <p>The Court will not ſuppoſe any thing to be awarded in an Award, which is not ſubmitted unto, ex<g ref="char:EOLhyphen"/>cept the contrary be made to appear, <hi>Pract. Reg.</hi> 28.</p>
+               <p>Thus you ſee moſt of the for<g ref="char:EOLhyphen"/>mer Caſes confirmed by this Re<g ref="char:EOLhyphen"/>giſter. And farther,</p>
+               <p>That a thing may be awarded to be done to a Stranger, See be<g ref="char:EOLhyphen"/>fore.</p>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="73" facs="tcp:44487:43"/>
+               <head>CHAP. XIV. <hi>How an Arbitrement ſhall be ex<g ref="char:EOLhyphen"/>pounded and intended.</hi>
+               </head>
+               <p>EVery Arbitrement is a Judg<g ref="char:EOLhyphen"/>ment, 8 <hi>E.</hi> 4.1. <hi>b.</hi> 8 <hi>E.</hi> 4.10. <hi>a.</hi>
+                  <note place="margin">Arbitrement is a Judgment.</note> 21 <hi>E.</hi> 4.39. <hi>a.</hi>
+               </p>
+               <p>And there is Diverſity where a Man is judged by Authority of the Law,
+<note place="margin">Diverſity be<g ref="char:EOLhyphen"/>tween Arbi<g ref="char:EOLhyphen"/>trement and Judgment by Law.</note> and by Election of the Party himſelf; for a Judge of Re<g ref="char:EOLhyphen"/>cord does not give Judgment a<g ref="char:EOLhyphen"/>gainſt the Parties if ſo be they are not called before him by Pro<g ref="char:EOLhyphen"/>ceſs of Law;
+<note place="margin">8 E. 4.2. a.</note> but otherwiſe it is of an Arbitrator, who is Judge between the Parties.</p>
+               <p>And whereas every Judgment of Record ſhall be executed lite<g ref="char:EOLhyphen"/>rally according to the Warrant iſſuing out of the Record,
+<note place="margin">How an Arbi<g ref="char:EOLhyphen"/>trement ſhall be expounded and intended.</note> upon and for the executing the ſaid Judgment. Yet nevertheleſs,</p>
+               <p>
+                  <note place="margin">17 E. 4.3. 21 E. 4.39. a. b. 19 H. 6.36. b.</note> Every Arbitrement ought to be expounded and intended accor<g ref="char:EOLhyphen"/>ding to the intent of the Arbi<g ref="char:EOLhyphen"/>trators,
+<pb n="74" facs="tcp:44487:44"/>and not literally, 10 <hi>Co. f.</hi> 57. <hi>b.</hi>
+               </p>
+               <p>But if the intent of the Arbi<g ref="char:EOLhyphen"/>trators will not ſtand with the Law,
+<note place="margin">To be per<g ref="char:EOLhyphen"/>formed in ſuch Senſe as agrees with the Law. 21 E. 4.39. b.</note> then the Parties ſhall per<g ref="char:EOLhyphen"/>form it according to thoſe Words, in ſuch Senſe as agrees with the Law.</p>
+               <p>And note, It hath been held, That an Averment ſhall not be al<g ref="char:EOLhyphen"/>lowed to ſhew the intent of the Arbitrators, if it be not ex<g ref="char:EOLhyphen"/>preſſed in the Award, either directly or by Circumſtance, <hi>Dyer</hi> 242.</p>
+            </div>
+            <div n="15" type="chapter">
+               <head>CHAP. XV. <hi>The Effect of an Arbitrement or Award.</hi>
+               </head>
+               <p>THE Effect of an Arbitre<g ref="char:EOLhyphen"/>ment or Award is as fol<g ref="char:EOLhyphen"/>lows:</p>
+               <pb n="75" facs="tcp:44487:44"/>
+               <p>By Arbitrement the Contro<g ref="char:EOLhyphen"/>verſie paſſes into a Matter judged of, 49 <hi>E.</hi> 3.3. <hi>a.</hi> 20 <hi>H.</hi> 6.41. <hi>a.</hi>
+                  <note place="margin">Arbitrement paſſeth into Judgment. 6 H. 7.11. b.</note> 9 <hi>E.</hi> 4.51. <hi>a.</hi>
+               </p>
+               <p>And therefore,
+<note place="margin">How to plead it. 6 H. 7.11. b. 9 E. 4.51. a. 20 H. 6.12. b. 40. a. b. 28 H. 6.12. 5 E. 4.7. a.</note> where the Party brings his Action for the Wrong done him, 'tis a good Plea, That he ſubmitted himſelf to the Ar<g ref="char:EOLhyphen"/>bitrement of ſuch and ſuch, who awarded that he ſhould pay ſo much, <hi>&amp;c.</hi> but the day of pay<g ref="char:EOLhyphen"/>ment of it is not yet come.</p>
+               <p>But if the Day of Payment be paſſed,
+<note place="margin">Tender of Mony pleaded 16 E. 4.8. b.</note> he ought to ſhew that he tendred the Mony at the Day, and that he is yet ready to pay it, <hi>&amp;c.</hi> 8 <hi>H.</hi> 6.25. <hi>b.</hi> See before <hi>Chap.</hi> 10.</p>
+               <p>For Arbitrement by which the Arbitrators award,
+<note place="margin">Arbitrement for Mony gives Action. 6 H. 7.11. 9 E. 4.51.</note> that one of the Parties ſhall pay Mony, does give an Action, 5 <hi>E.</hi> 4.7. <hi>a.</hi> 16 <hi>E.</hi> 4.9. <hi>a.</hi> 17 <hi>E.</hi> 4.2. <hi>b.</hi> 17 <hi>E.</hi> 4.8. <hi>a. Fitz. Nat. Brev. G.</hi> 121.</p>
+               <p>And it is now held by the Court,
+<note place="margin">When Debt on Award ſhall be within Statute of Limitation.</note> That Debt upon an Award by Word of Mouth is within the Sta<g ref="char:EOLhyphen"/>tute of Limitation, 21 <hi>Jac.</hi> 16. That it muſt be ſued for within
+<pb n="76" facs="tcp:44487:45"/>ſix years after the Cauſe of Acti<g ref="char:EOLhyphen"/>on: But Debt upon an Award under Hand and Seal, is as if it were a Specialty,
+<note place="margin">2 Keb. p. 462.</note> and ſo out of the Statute.</p>
+               <p>This is the ſame if the Submiſ<g ref="char:EOLhyphen"/>ſion be without Deed.</p>
+               <p>And if the Parties do not per<g ref="char:EOLhyphen"/>form the Arbitrement,
+<note place="margin">Party reſtored to his firſt Action. 49 E. 3.3. a. Or he may have Debt up<g ref="char:EOLhyphen"/>on the Award. 49 E. 3.3. a. 33 H. 6.2. b. If the payment be made, firſt wrong is de<g ref="char:EOLhyphen"/>termined. Double Action</note> the Party is reſtored to his firſt Action.</p>
+               <p>But yet it is at his Election to have a Writ of Debt, upon the Award, or the firſt Action.</p>
+               <p>But if the Payment be made, the firſt Wrong is altogether de<g ref="char:EOLhyphen"/>termined by the Award, 4 <hi>H.</hi> 6.1. <hi>a.</hi> 25. <hi>b.</hi> 21 <hi>H.</hi> 7.28. <hi>b.</hi>
+               </p>
+               <p>And if the Arbitrators award, that one of the Parties ſhall pay ſo much Mony, and either of them is bound to the other to ſtand to the Award,
+<note place="margin">21 E. 4.41. b. 33 H. 6.2. b.</note> the Party may have an Action upon the Award, and alſo the Deed if the Award be not performed. <hi>Quaere.</hi>
+               </p>
+               <p>If the Submiſſion be by Word,
+<note place="margin">Award of a Collateral things gives no Action.</note> and the Award is, That one of the Parties ſhall do a Collateral Act, other than payment of Mony,
+<pb n="77" facs="tcp:44487:45"/>it gives no Action; and if it be not indeed executed and ſatiſ<g ref="char:EOLhyphen"/>fied,
+<note place="margin">20 H. 6.19. a. 5 E. 4.7. a. 11. b.</note> the Arbitrement hath no Ef<g ref="char:EOLhyphen"/>fect, and ſuch Arbitrement does not determine the firſt Wrong, 19 <hi>H.</hi> 6.38. <hi>a.</hi>
+               </p>
+               <p>Yet if the Submiſſion be by Bond,
+<note place="margin">Submiſſion by Bond, and Bond for<g ref="char:EOLhyphen"/>feited.</note> if a Collateral Act be a<g ref="char:EOLhyphen"/>warded to be done, if it be not performed, the Bond ſhall be for<g ref="char:EOLhyphen"/>feit, 9 <hi>E.</hi> 4.44. <hi>a.</hi>
+               </p>
+               <p>And 'tis the uſual courſe to ſue the Bond on Non-performance of the Award.
+<note place="margin">Uſual courſe of Practice.</note>
+               </p>
+            </div>
+            <div n="16" type="chapter">
+               <head>CHAP. XVI. <hi>Concerning the Performance of an A<g ref="char:EOLhyphen"/>ward. With ſeveral Preſidents of Awards, Umpirage and Releaſe.</hi>
+               </head>
+               <p>LAſtly we are to conſider the Performance of the Award,
+<note place="margin">How the Par<g ref="char:EOLhyphen"/>ties ought to perform the Award. They ought to uſe their utmoſt En<g ref="char:EOLhyphen"/>deavour.</note> whereof it is ſaid, That</p>
+               <p>The Parties ought to do all that in them is to perform it, 21 <hi>E.</hi> 4.39. <hi>b.</hi> See before <hi>Chap.</hi> 9.</p>
+               <pb n="78" facs="tcp:44487:46"/>
+               <p>If by the Arbitrement it is a<g ref="char:EOLhyphen"/>warded,
+<note place="margin">Things to be done two ways, how to be performed.</note> That an Act ſhall be done which a Man may perform in two manners, the one way by him<g ref="char:EOLhyphen"/>ſelf, and by the other way he muſt have the Aid of another perſon, the Party ought to perform it by ſuch means as he himſelf can do,
+<note place="margin">21 E. 4.40. b.</note> with<g ref="char:EOLhyphen"/>out the Aid of another.</p>
+               <p>Arbitrement ought not to be performed in part,
+<note place="margin">Muſt be total<g ref="char:EOLhyphen"/>ly performed.</note> and in part not, 6 <hi>H.</hi> 7.10. <hi>b.</hi>
+               </p>
+               <p>But though an Arbitrement can<g ref="char:EOLhyphen"/>not be made by the Arbitrators,
+<note place="margin">May be per<g ref="char:EOLhyphen"/>formed at ſe<g ref="char:EOLhyphen"/>veral times. 8 E. 4.10. b.</note> part at one time and part at ano<g ref="char:EOLhyphen"/>ther time, yet it may be perfor<g ref="char:EOLhyphen"/>med part at one time and part at another time.</p>
+               <p>But this muſt be before the Day limited.</p>
+               <p>The Parties ſhall have reaſona<g ref="char:EOLhyphen"/>ble time allowed them for the performance of an Award if no time be limited,
+<note place="margin">How to be per<g ref="char:EOLhyphen"/>formed when no day is li<g ref="char:EOLhyphen"/>mited. 21 E. 4.41. a. b. &amp;c. One Act to be done de<g ref="char:EOLhyphen"/>pends upon another to be firſt done. 5 E. 4.7. a.</note> 20 <hi>E.</hi> 4.8. <hi>b.</hi>
+               </p>
+               <p>If the Act which the Arbitra<g ref="char:EOLhyphen"/>tors award that one of the Par<g ref="char:EOLhyphen"/>ties ſhall perform, cannot be per<g ref="char:EOLhyphen"/>formed before another Act firſt done by the other Party, if the
+<pb n="79" facs="tcp:44487:46"/>Party does not do the firſt Act, the other is excuſed.</p>
+               <p>Arbitrement,
+<note place="margin">Payment of Mony, and re<g ref="char:EOLhyphen"/>leaſe at the ſame time. 21 H. 7.28. b.</note> that one Party ſhall pay Mony, and the other ſhall make a Releaſe, it ſhall be done at one and the ſame time, if there be no Bond to perform the Award.</p>
+               <p>But if there be an Obligation to perform the Award,
+<note place="margin">When Parties muſt perform Award at their Peril.</note> then either ought to perform his part under the peril of the Obligation, 21 <hi>H.</hi> 7.28. <hi>b.</hi>
+               </p>
+               <p>If a Bond be made to ſtand to an Arbitrement, though the Arbi<g ref="char:EOLhyphen"/>trement is void in Law, yet it is ſaid it ought to be performed, o<g ref="char:EOLhyphen"/>therwiſe the Bond ſhall be for<g ref="char:EOLhyphen"/>feited.
+<note place="margin">22 H. 6.46. b.</note>
+               </p>
+               <p>This muſt be meant when the Award is only void in part, See be<g ref="char:EOLhyphen"/>fore <hi>Chap.</hi> 6.</p>
+               <p>But if an Action be brought up<g ref="char:EOLhyphen"/>on ſuch void Award,
+<note place="margin">22 H. 6.46. b.</note> the Action ſhall not be maintained.</p>
+               <p>If the Matter contained in the Award,
+<note place="margin">Difference in Words be<g ref="char:EOLhyphen"/>tween the A<g ref="char:EOLhyphen"/>ward and Sub<g ref="char:EOLunhyphen"/>miſſion.</note> and the Matter con<g ref="char:EOLhyphen"/>tained in the Submiſſion, of which the Arbitrators ought to
+<pb n="80" facs="tcp:44487:47"/>award, differ in Words or in Cir<g ref="char:EOLhyphen"/>cumſtance.</p>
+               <p>The Parties to the Arbitrement ſhall not in a Suit thereupon be allowed to aver,
+<note place="margin">7, 8 El. 242. b. 52. Averment not allowed.</note> that it is all one, <hi>Dyer</hi> 242. See before <hi>Chap.</hi> 14.</p>
+               <p>Thus have I ſhewn you the whole Law of Arbitrement by Method and Rule; wherein if you find ſome things twice, it is not without ſome Reaſon, either re<g ref="char:EOLhyphen"/>lating to the Method or to the Matter of an Award.</p>
+               <p>There may be many other things ſaid of Arbitrement in later Books, as in the three Books of <hi>Keble</hi>'s Reports; but theſe things being no more than what is al<g ref="char:EOLhyphen"/>ready ſaid, and eſpecially belong<g ref="char:EOLhyphen"/>ing to Pleading, I ſhall omit them.</p>
+            </div>
+         </div>
+         <div type="forms">
+            <pb n="81" facs="tcp:44487:47"/>
+            <head>Several Forms of Awards, Arbitrements and <g ref="char:V">Ʋ</g>m<g ref="char:EOLhyphen"/>pirage.</head>
+            <p>Mr. <hi>Weſt</hi> in his Treatiſe <hi>Symb.</hi> Part 2. Sect. 45. gives us a Pre<g ref="char:EOLhyphen"/>ſident to this purpoſe.</p>
+            <div type="form">
+               <head>An Arbitrement or Award of Lands, by which the Party covenanteth to perform it.</head>
+               <p>
+                  <hi>THIS Indenture</hi> made the 1ſt day of <hi>Aug.</hi> in the fourth year of the Reign of our Sove<g ref="char:EOLhyphen"/>reign Lord and Lady <hi>William</hi> and <hi>Mary</hi> by the Grace of God of <hi>England, Scotland, France</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land</hi> King and Queen, Defenders of the Faith, <hi>&amp;c. Annoque Domi<g ref="char:EOLhyphen"/>ni,</hi> 1692. between <hi>A. B.</hi> of, <hi>&amp;c.</hi> of the one part, and <hi>C. D.</hi> of, <hi>&amp;c.</hi> of the other part, <hi>Witneſſeth,</hi> That whereas there hath been and yet is Contention, Vari<g ref="char:EOLhyphen"/>ance and Suit betwixt the ſaid
+<pb n="82" facs="tcp:44487:48"/>Parties, not only for and concern<g ref="char:EOLhyphen"/>ing the Right, Title and Intereſt of and in a certain quantity of Ground, by eſtimation two Acres or thereabouts, lying in <hi>E.</hi> and adjoyning, <hi>(&amp;c.)</hi>
+                  <note n="*" place="margin">Setting forth the bounds and borders of the Ground.</note> For the friend<g ref="char:EOLhyphen"/>ly ending and appeaſing of which ſaid Variances and Controverſies, the ſaid Parties have compromit<g ref="char:EOLhyphen"/>ed and ſubmitted, and by theſe preſents do compromit and ſub<g ref="char:EOLhyphen"/>mit themſelves and all Matters in variance aforeſaid, to the Or<g ref="char:EOLhyphen"/>der, Arbitrement, Award, Judg<g ref="char:EOLhyphen"/>ment, final End and Determina<g ref="char:EOLhyphen"/>tion of <hi>E. F.</hi> and <hi>G. H.</hi> of <hi>&amp;c.</hi> Arbitrators indifferently choſen, elected and named, as well on the part and behalf of the ſaid <hi>A. B.</hi> as of the aforeſaid <hi>C. D.</hi> Whereupon the ſaid Arbitrators having viewed the ſaid Ground in variance, and peruſed divers Writings and Evidences concern<g ref="char:EOLhyphen"/>ing the ſame, and heard the Te<g ref="char:EOLhyphen"/>ſtimony and Witneſs of divers an<g ref="char:EOLhyphen"/>cient Men and Neighbours, dwel<g ref="char:EOLhyphen"/>ling nigh the ſaid Ground, as well touching the Occupation and
+<pb n="83" facs="tcp:44487:48"/>Uſage of the ſaid Ground by the ſaid <hi>A. B.</hi> and his Anceſtors, as alſo the ſaid ways uſed thereun<g ref="char:EOLhyphen"/>to, by the Inhabitants of the Neighbourhood, time out of mind; Do make and declare their Award, Judgment, final End and Determination of and concerning the Premiſſes and every part thereof. And to that end the ſaid <hi>A. B.</hi> and <hi>C. D.</hi> do, and each of them by theſe Pre<g ref="char:EOLhyphen"/>ſents doth, ſeverally Covenant and Grant, to and with the o<g ref="char:EOLhyphen"/>ther for themſelves, their Heirs, Executors and Adminiſtrators, in manner and form following, that is to ſay, Firſt, the ſaid Arbitra<g ref="char:EOLhyphen"/>tors do Order, Award and Judge, and the ſaid <hi>C. D.</hi> is ſo content<g ref="char:EOLhyphen"/>ed and agreed, and accordingly doth Covenant and grant for him and his Heirs, to and with the ſaid <hi>A. B.</hi> and his Aſſigns, That he the ſaid <hi>A. B.</hi> ſhall and may from henceforth have, hold, oc<g ref="char:EOLhyphen"/>cupy and quietly enjoy to him and his Heirs for ever, the ſaid parcels or quantity of Ground,
+<pb n="84" facs="tcp:44487:49"/>containing by eſtimation two Acres, lying and being — (<hi>&amp;c.</hi> ſetting forth the Buttels and Bounds, and the ſubſtance of the Award) — and that the ſaid <hi>C. D.</hi> his Heirs and Aſſigns, ſhall and will at all times hereafter, at his and their proper coſts and charges, and within the ſpace of Two years,
+<note place="margin">Or other time as is thought fit. And with ſuch Exceptions as may be thought fit.</note> next enſuing the date hereof, do make, acknowledge, and ſuffer, or cauſe to be made acknowledged and ſuffered, all and every Act and Acts, Thing and Things for the further, bet<g ref="char:EOLhyphen"/>ter and more perfect aſſuring and ſure making unto the ſaid <hi>A.B.</hi> his Heirs and Aſſigns, for ever, as well the ſaid parcel or quantity of Ground, containing about two Acres, as alſo of the ſaid ways in manner and form before ex<g ref="char:EOLhyphen"/>preſſed, as by the ſaid <hi>A. B.</hi> his Heirs or Aſſigns, or his or their Counſel learned in the Laws, ſhall for that purpoſe be reaſo<g ref="char:EOLhyphen"/>nably adviſed, deviſed or requi<g ref="char:EOLhyphen"/>red, according to the true intent and meaning of theſe Preſents.
+<pb n="85" facs="tcp:44487:49"/>In conſideration whereof the ſaid <hi>A. B.</hi> hath paid to the ſaid <hi>C. D.</hi> at the enſealing hereof, at the Requeſt and by the Award and Order of the ſaid Arbitrators, the Sum of 100 <hi>l.</hi> of lawful Mony of <hi>
+                     <hi>England.</hi> In Witneſs</hi> where<g ref="char:EOLhyphen"/>of, not only the ſaid Parties to theſe preſent Indentures of Award interchangeably have put their Seals, and ſubſcribed their Names, but alſo the ſaid Arbitrators, to both the parts of theſe Indentures have put their Hands and Seals the day and year firſt above writ<g ref="char:EOLhyphen"/>ten.</p>
+               <p>Sealed and delivered in the preſence of</p>
+               <p>Note, That all ſuch Covenants and Conditions as are uſually made for the aſſurance or enjoying of Lands or Tene<g ref="char:EOLhyphen"/>ments, Goods and Chattels may be inſerted into Awards, as the Arbitrators, <hi>&amp;c.</hi> ſhall think fit.</p>
+            </div>
+            <div type="form">
+               <pb n="86" facs="tcp:44487:50"/>
+               <head>Another more uſual and formal Award upon ſubmiſſion by Bond.</head>
+               <p>TO all People to whom this preſent Writing of Award
+<note n="*" place="margin">Note, it need not be indent<g ref="char:EOLhyphen"/>ed, unleſs the Bonds of Sub<g ref="char:EOLhyphen"/>miſſion do ſo provide.</note> Indented ſhall come, <hi>A. B.</hi> and <hi>C. D.</hi> of <hi>(&amp;c.)</hi> ſend Greeting, Whereas great Variance, Strife, Debate and Controverſie hath heretofore been had, moved and ſtirred, between <hi>E. F.</hi> of <hi>(&amp;c.)</hi> and <hi>G. H.</hi> of <hi>(&amp;c.)</hi> of, for and concerning — (<hi>&amp;c.</hi> reciting the Matters in Controverſie, —) for the appeaſing and ending whereof, either of the ſaid Parties by their mutual Aſſents, Conſents and Agreements, have ſubmitted and bound themſelves, either to the other, by their ſeveral Wri<g ref="char:EOLhyphen"/>tings Obligatory, bearing date — [<hi>&amp;c.</hi> ſetting forth the date—] in the Sum of, [<hi>&amp;c.</hi> mentioning the Penalty] To ſtand to, obey, abide, obſerve perform, fullfil and keep the Award, Order, Arbitre<g ref="char:EOLhyphen"/>ment,
+<pb n="87" facs="tcp:44487:50"/>Judgment, final End and Determination of Us the ſaid <hi>A. B.</hi> and <hi>C. D.</hi> Arbitrators in<g ref="char:EOLhyphen"/>differently Elected and Choſen between the ſaid Parties to Ar<g ref="char:EOLhyphen"/>bitrate, Award, Order, [<hi>&amp;c.</hi> as the Words in the Condition of the Bond are expreſſed] — of and for the Premiſſes, as by the ſaid ſeveral Obligations, with the Conditions for the performance thereof, relation being thereunto had, more at large may appear. Now know ye, That we the ſaid Arbitrators having taken upon us the Buſineſs and Charge of the ſame Award, and willing to ſet the ſaid Parties at Peace and Con<g ref="char:EOLhyphen"/>cord, by making a final End and Determination concerning the Premiſſes in Controverſie, and having taken good advice and deliberation, and heard and ex<g ref="char:EOLhyphen"/>amined both their Title, Allega<g ref="char:EOLhyphen"/>tions and Proofs offered, concern<g ref="char:EOLhyphen"/>ing the ſaid Premiſſes in Con<g ref="char:EOLhyphen"/>troverſie, do, with the aſſent and conſent of both the ſaid Parties, make, publiſh, declare and give
+<pb n="88" facs="tcp:44487:51"/>up this our Award concerning the Premiſſes, in manner and form following, <hi>viz.</hi> Firſt, We Award, Order, Judge and Deter<g ref="char:EOLhyphen"/>mine, That, —
+<note n="*" place="margin">Setting forth the Judgment or Award.</note> 
+                  <hi>&amp;c.</hi> Alſo we a<g ref="char:EOLhyphen"/>ward, <hi>&amp;c.</hi> Finally we award, judge and determine, <hi>&amp;c.</hi> — In Witneſs whereof we the ſaid Arbitrators, and alſo both the ſaid Parties to the Submiſſion, have interchange<g ref="char:EOLhyphen"/>ably put our Hands and Seals, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+                  <hi>Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Domini,</hi> 1692.</p>
+            </div>
+            <div type="form">
+               <head>Another moſt uſual and general Form of an Award upon a ſubmiſſion by Bond.</head>
+               <p>TO all People to whom this preſent Writing of Award indented, ſhall come <hi>A. B.</hi> of, <hi>&amp;c.</hi> and <hi>C. D.</hi> of, <hi>&amp;c.</hi> Arbitrators in<g ref="char:EOLhyphen"/>differently choſen, elected and named, by and between <hi>E. F.</hi> of, <hi>&amp;c.</hi> and <hi>G. H.</hi> of, <hi>&amp;c.</hi> to Arbi<g ref="char:EOLhyphen"/>trate,
+<note n="*" place="margin">Reciting the words in the Condition of the Bond.</note> Award, Order, Judge and Determine, of, for, upon and con<g ref="char:EOLhyphen"/>cerning all and all manner of
+<pb n="89" facs="tcp:44487:51"/>Action and Actions, Cauſe and Cauſes of Actions, Suits, Bills, Bonds, Specialties, Judgments, Ex<g ref="char:EOLhyphen"/>ecutions, Extents, Quarrels, Con<g ref="char:EOLhyphen"/>troverſies, Treſpaſſes, Damages and Demands whatſoever, at any time before our ſaid Election, had, made, moved, brought, com<g ref="char:EOLhyphen"/>menced, ſued, proſecuted, done, ſuffered, comitted or depending, by or between the ſaid Parties, as by the ſeveral mutual Bonds or Writings Obligatory of the ſaid Parties, with the Conditions there<g ref="char:EOLhyphen"/>of, relation being thereunto had, more fully and at large may ap<g ref="char:EOLhyphen"/>pear. Now know ye, That we the ſaid Arbitrators, in purſuance of our ſaid Election, and the power given us thereby, for the ending of all the Matters to us therein ſubmitted, and for the future Peace and quiet of the ſaid Par<g ref="char:EOLhyphen"/>ties concerning the Premiſſes, do Arbitrate, Award, Order, Judge and Determine thereupon as fol<g ref="char:EOLhyphen"/>loweth, Firſt, <hi>(&amp;c.</hi>
+                  <note n="*" place="margin">Setting forth the Judgment.</note> — In Wit<g ref="char:EOLhyphen"/>neſs whereof, we the ſaid Arbi<g ref="char:EOLhyphen"/>trators have to theſe our preſent
+<pb n="90" facs="tcp:44487:52"/>Indentures of Award, inter<g ref="char:EOLhyphen"/>changeably ſet our Hands and Seals, the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+                  <hi>Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Domini,</hi> 1692.</p>
+            </div>
+            <div type="form">
+               <head>The Form of an Umpirage, briefly thus:</head>
+               <p>TO all People to whom this preſent Writing ſhall come, I <hi>A. B.</hi> of <hi>C.</hi> &amp;c. Umpire indif<g ref="char:EOLhyphen"/>ferently choſen by <hi>E. F.</hi> of, <hi>&amp;c.</hi> and <hi>G. H.</hi> of, <hi>&amp;c.</hi> having delibe<g ref="char:EOLhyphen"/>rately heard and underſtood the Griefs and Allegations and Proofs of both the ſaid Parties, and wil<g ref="char:EOLhyphen"/>lingly, as much as in me lieth, to ſet the ſaid Parties at unity and good accord, do by theſe Preſents, arbitrate, award, order, deem, decree and judge, That the ſaid <hi>E. F.</hi> his Executors or Admi<g ref="char:EOLhyphen"/>niſtators, ſhall well and truly pay or cauſe to be paid unto the ſaid <hi>G. H.</hi> his Executors, Adminiſtra<g ref="char:EOLhyphen"/>tors or Aſſigns, at or in the dwel<g ref="char:EOLhyphen"/>ling Houſe, <hi>&amp;c.</hi> the full Sum of
+<pb n="91" facs="tcp:44487:52"/>Ten Pounds of lawful Mony of <hi>England</hi> on the firſt day of <hi>Sep<g ref="char:EOLhyphen"/>temper</hi> next enſuing the Date here<g ref="char:EOLhyphen"/>of; and that upon payment there<g ref="char:EOLhyphen"/>of either of the ſaid <hi>E. F.</hi> and <hi>G. H.</hi> ſhall ſeal, ſubſcribe, and as his ſeveral Act and Deed, deliver unto the other of them a general Releaſe in writing of all Matters, Actions, Suits, Cauſes of Actions, Bonds, Bills, Covenants, Contro<g ref="char:EOLhyphen"/>verſies and Demands whatſoever, which either of them may, might or in any wiſe ought to have of, and againſt the other of them by reaſon aforeſaid, or means of any Matter, Cauſe or Thing whatſo<g ref="char:EOLhyphen"/>ever from the beginning of the World until the 20th Day of
+<note n="*" place="margin">The Day of the Date of the Bonds of Submiſſion.</note> 
+                  <hi>July</hi> now laſt paſt. <hi>In Witneſs</hi> whereof I have hereunto ſet my Hand and Seal the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> in the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> year of the Reign of, <hi>&amp;c. Annoque Domini,</hi> 1692.</p>
+            </div>
+            <div type="form">
+               <pb n="92" facs="tcp:44487:53"/>
+               <head>The Form of the Releaſe.</head>
+               <p>KNOW all Men by theſe Preſents,
+<note place="margin">Naming the Parties, their Places, and Trades or Qualities.</note> That I <hi>E. F.</hi> of, <hi>&amp;c.</hi> have remiſed, releaſed, and for ever quit claimed, and by theſe Preſents do for me, my Heirs, Executors and Adminiſtra<g ref="char:EOLhyphen"/>tors remiſe, releaſe, and for ever quit claim unto <hi>G. H.</hi> of, <hi>&amp;c.</hi> his Heirs, Executors and Adminiſtra<g ref="char:EOLhyphen"/>tors, all and all manner of Acti<g ref="char:EOLhyphen"/>ons, Cauſe and Cauſes of Acti<g ref="char:EOLhyphen"/>ons, Suits, Bills, Bonds, Writings Obligatory, Debts, Dues, Duties, Accounts, Sum and Sums of Mo<g ref="char:EOLhyphen"/>ny, Judgments, Executions, Ex<g ref="char:EOLhyphen"/>tents, Quarrels, Controverſies, Treſpaſſes, Damages and Demands whatſoever, which againſt the ſaid <hi>G. H.</hi> I ever had, now have, and which I, my Heirs, Executors or Adminiſtrators ſhall or may have Claim, Challenge or Demand for or by reaſon or means of any Matter, Cauſe or Thing whatſo<g ref="char:EOLhyphen"/>ever
+<pb n="93" facs="tcp:44487:53"/>from the beginning of the World until the 20th Day of <hi>July</hi> now laſt paſt. <hi>In Witneſs</hi> whereof I have hereunto ſet my Hand and Seal this <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> in the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> year of the Reign of, <hi>&amp;c. Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Domini,</hi> 1692.</p>
+               <p>Sealed and delivered in the preſence of</p>
+               <p>Note, You may date the Re<g ref="char:EOLhyphen"/>leaſe upon the day to which it ought to releaſe, and then ſay, <hi>From the beginning of the World unto the day of the date of theſe Preſents.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:44487:54"/>
+               <pb facs="tcp:44487:54"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
